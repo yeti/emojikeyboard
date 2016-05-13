@@ -1,0 +1,687 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		11E9E0C04BDAF8E5D0111C11E68135F7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */; };
+		887E3272573F0EE9980B418611FBDD75 /* EmojiKeyboard-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = F7E60C2D559A3F94ED54EB54291F5CAD /* EmojiKeyboard-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		926372641C9E1970F56E54EEA63FC435 /* Pods-EmojiKeyboard_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A60317475B48B9B644EFF5838917695A /* Pods-EmojiKeyboard_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9B6B728E65522DC1C34CF817DBA5B14E /* Pods-EmojiKeyboard_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C2F5F4E777F97CA474E3E9788160CAD3 /* Pods-EmojiKeyboard_Tests-dummy.m */; };
+		9BBF985D95FEA861A7EBA75439EB068F /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE919C0EC9C7D8F0AA1E05A3DE4DF98E /* ReplaceMe.swift */; };
+		B8DAC42FB185AECF51872388FBDD6174 /* Pods-EmojiKeyboard_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 06D0017BF58BC5F6FBB4F6181E2EEB65 /* Pods-EmojiKeyboard_Example-dummy.m */; };
+		DDCA9FA155B6C16431717031EFA37E50 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */; };
+		E7F2FE0914C46957F95FBC0D7C5588C0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */; };
+		EEAE2874EC72B03A415D2AC4B9DC9F7E /* Pods-EmojiKeyboard_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 1718BDF4E067A1D04FB8FD11015E7D52 /* Pods-EmojiKeyboard_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FABBB82105D0EF014109789D0585B1D2 /* EmojiKeyboard-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 79F77E19B5A99FB6C1FB830334B8E5EC /* EmojiKeyboard-dummy.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		D9948190D54BED4C43693DE2E858B0F2 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 43DCC49FE455041F16C7FBF307FCC495;
+			remoteInfo = EmojiKeyboard;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		05CD0D09A94BED37C8F5238E7F3F6EC3 /* Pods-EmojiKeyboard_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-EmojiKeyboard_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		06D0017BF58BC5F6FBB4F6181E2EEB65 /* Pods-EmojiKeyboard_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-EmojiKeyboard_Example-dummy.m"; sourceTree = "<group>"; };
+		1718BDF4E067A1D04FB8FD11015E7D52 /* Pods-EmojiKeyboard_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-EmojiKeyboard_Tests-umbrella.h"; sourceTree = "<group>"; };
+		2A61AF209C75E1FE2266F5858A309B41 /* EmojiKeyboard.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = EmojiKeyboard.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		2C1537525683463CC2C1420DF358CC90 /* Pods-EmojiKeyboard_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-EmojiKeyboard_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		35CB6381066ED789E4836F22E6CA1730 /* Pods-EmojiKeyboard_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-EmojiKeyboard_Example-frameworks.sh"; sourceTree = "<group>"; };
+		3678C91240550F88D006BEFCDB3EB6EC /* EmojiKeyboard-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "EmojiKeyboard-prefix.pch"; sourceTree = "<group>"; };
+		3A02406B49AF95E1F6AECB185990B27F /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		52FFE4A76F45E7D7A7A5D29460A639FE /* EmojiKeyboard.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = EmojiKeyboard.modulemap; sourceTree = "<group>"; };
+		5C6D483A5BB31D4E6ABE09AEF3864B78 /* Pods-EmojiKeyboard_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-EmojiKeyboard_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		5D38C4CD5B7290CEF6951FC9C327743F /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6641D7907D4202B3675A2E5689781B73 /* Pods-EmojiKeyboard_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-EmojiKeyboard_Example.release.xcconfig"; sourceTree = "<group>"; };
+		6D50476F3C7781B3AA1C0D4273264E5E /* Pods-EmojiKeyboard_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-EmojiKeyboard_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		73C6CFCDF48D47369B7BF4DDE84055D0 /* Pods-EmojiKeyboard_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-EmojiKeyboard_Tests-frameworks.sh"; sourceTree = "<group>"; };
+		79F77E19B5A99FB6C1FB830334B8E5EC /* EmojiKeyboard-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "EmojiKeyboard-dummy.m"; sourceTree = "<group>"; };
+		7F2881684F497491EAB97354565C2EBF /* Pods-EmojiKeyboard_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-EmojiKeyboard_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A41BBB4B7406BE6C1C34A7DF83D580C7 /* Pods-EmojiKeyboard_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-EmojiKeyboard_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		A54CB4DBE34DC98604FBA48F7FF384FC /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A60317475B48B9B644EFF5838917695A /* Pods-EmojiKeyboard_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-EmojiKeyboard_Example-umbrella.h"; sourceTree = "<group>"; };
+		A85F264F484FB3F004F115C33503DDEB /* Pods-EmojiKeyboard_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-EmojiKeyboard_Tests-resources.sh"; sourceTree = "<group>"; };
+		AAC59A5A52589EB2EE039C5BC5DF2447 /* Pods_EmojiKeyboard_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EmojiKeyboard_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C2F5F4E777F97CA474E3E9788160CAD3 /* Pods-EmojiKeyboard_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-EmojiKeyboard_Tests-dummy.m"; sourceTree = "<group>"; };
+		C6DAC6FDEBF33D07C07B11162481DAAF /* Pods-EmojiKeyboard_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-EmojiKeyboard_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		C86AC9660F6EC0419A243433C841E8A0 /* Pods-EmojiKeyboard_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-EmojiKeyboard_Tests.modulemap"; sourceTree = "<group>"; };
+		CCAE76F1CC7ECC59BDB802964B97CBA5 /* EmojiKeyboard.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = EmojiKeyboard.xcconfig; sourceTree = "<group>"; };
+		CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		D2785D95CC45374C495AD77109A26821 /* Pods-EmojiKeyboard_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-EmojiKeyboard_Example-resources.sh"; sourceTree = "<group>"; };
+		D744E33603CD53BD6D1131B15A2BCC30 /* Pods-EmojiKeyboard_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-EmojiKeyboard_Example.modulemap"; sourceTree = "<group>"; };
+		EE919C0EC9C7D8F0AA1E05A3DE4DF98E /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ReplaceMe.swift; sourceTree = "<group>"; };
+		F204C38FA15C055698624A2FA7AD81D3 /* Pods_EmojiKeyboard_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EmojiKeyboard_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F7E60C2D559A3F94ED54EB54291F5CAD /* EmojiKeyboard-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "EmojiKeyboard-umbrella.h"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		10203AD08C2338D69FE81AB9D3E6E790 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E7F2FE0914C46957F95FBC0D7C5588C0 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		249D5AEB0BFFC3D2D67FE314A2BBF058 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DDCA9FA155B6C16431717031EFA37E50 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6B905B76435F917EA5DB7E7B6A1AB644 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				11E9E0C04BDAF8E5D0111C11E68135F7 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0276877842C456EC0B6DCB19DCF5462B /* Pods-EmojiKeyboard_Example */ = {
+			isa = PBXGroup;
+			children = (
+				A54CB4DBE34DC98604FBA48F7FF384FC /* Info.plist */,
+				D744E33603CD53BD6D1131B15A2BCC30 /* Pods-EmojiKeyboard_Example.modulemap */,
+				7F2881684F497491EAB97354565C2EBF /* Pods-EmojiKeyboard_Example-acknowledgements.markdown */,
+				2C1537525683463CC2C1420DF358CC90 /* Pods-EmojiKeyboard_Example-acknowledgements.plist */,
+				06D0017BF58BC5F6FBB4F6181E2EEB65 /* Pods-EmojiKeyboard_Example-dummy.m */,
+				35CB6381066ED789E4836F22E6CA1730 /* Pods-EmojiKeyboard_Example-frameworks.sh */,
+				D2785D95CC45374C495AD77109A26821 /* Pods-EmojiKeyboard_Example-resources.sh */,
+				A60317475B48B9B644EFF5838917695A /* Pods-EmojiKeyboard_Example-umbrella.h */,
+				A41BBB4B7406BE6C1C34A7DF83D580C7 /* Pods-EmojiKeyboard_Example.debug.xcconfig */,
+				6641D7907D4202B3675A2E5689781B73 /* Pods-EmojiKeyboard_Example.release.xcconfig */,
+			);
+			name = "Pods-EmojiKeyboard_Example";
+			path = "Target Support Files/Pods-EmojiKeyboard_Example";
+			sourceTree = "<group>";
+		};
+		05A3EDC2A445D4CF268A28B5F252315E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2A61AF209C75E1FE2266F5858A309B41 /* EmojiKeyboard.framework */,
+				AAC59A5A52589EB2EE039C5BC5DF2447 /* Pods_EmojiKeyboard_Example.framework */,
+				F204C38FA15C055698624A2FA7AD81D3 /* Pods_EmojiKeyboard_Tests.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3638FCE975E9401A7ED6BE474519E3C6 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				52FFE4A76F45E7D7A7A5D29460A639FE /* EmojiKeyboard.modulemap */,
+				CCAE76F1CC7ECC59BDB802964B97CBA5 /* EmojiKeyboard.xcconfig */,
+				79F77E19B5A99FB6C1FB830334B8E5EC /* EmojiKeyboard-dummy.m */,
+				3678C91240550F88D006BEFCDB3EB6EC /* EmojiKeyboard-prefix.pch */,
+				F7E60C2D559A3F94ED54EB54291F5CAD /* EmojiKeyboard-umbrella.h */,
+				3A02406B49AF95E1F6AECB185990B27F /* Info.plist */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/EmojiKeyboard";
+			sourceTree = "<group>";
+		};
+		3DCAB2B7CDE207B3958B6CB957FCC758 /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		44589CCE7FA3F5AB11060B5641811C45 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				0276877842C456EC0B6DCB19DCF5462B /* Pods-EmojiKeyboard_Example */,
+				AABB2EEE43825A85127897AE700F83CC /* Pods-EmojiKeyboard_Tests */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		7DB346D0F39D3F0E887471402A8071AB = {
+			isa = PBXGroup;
+			children = (
+				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
+				943FDA0B10D562F4FD52218F40C4C8E0 /* Development Pods */,
+				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
+				05A3EDC2A445D4CF268A28B5F252315E /* Products */,
+				44589CCE7FA3F5AB11060B5641811C45 /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		8FB05A2DF301375AD98FA9CA45BB4690 /* EmojiKeyboard */ = {
+			isa = PBXGroup;
+			children = (
+				BFBBFEDC8445F0D0DA621F6B907588A5 /* EmojiKeyboard */,
+				3638FCE975E9401A7ED6BE474519E3C6 /* Support Files */,
+			);
+			name = EmojiKeyboard;
+			path = ../..;
+			sourceTree = "<group>";
+		};
+		943FDA0B10D562F4FD52218F40C4C8E0 /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				8FB05A2DF301375AD98FA9CA45BB4690 /* EmojiKeyboard */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		AABB2EEE43825A85127897AE700F83CC /* Pods-EmojiKeyboard_Tests */ = {
+			isa = PBXGroup;
+			children = (
+				5D38C4CD5B7290CEF6951FC9C327743F /* Info.plist */,
+				C86AC9660F6EC0419A243433C841E8A0 /* Pods-EmojiKeyboard_Tests.modulemap */,
+				6D50476F3C7781B3AA1C0D4273264E5E /* Pods-EmojiKeyboard_Tests-acknowledgements.markdown */,
+				C6DAC6FDEBF33D07C07B11162481DAAF /* Pods-EmojiKeyboard_Tests-acknowledgements.plist */,
+				C2F5F4E777F97CA474E3E9788160CAD3 /* Pods-EmojiKeyboard_Tests-dummy.m */,
+				73C6CFCDF48D47369B7BF4DDE84055D0 /* Pods-EmojiKeyboard_Tests-frameworks.sh */,
+				A85F264F484FB3F004F115C33503DDEB /* Pods-EmojiKeyboard_Tests-resources.sh */,
+				1718BDF4E067A1D04FB8FD11015E7D52 /* Pods-EmojiKeyboard_Tests-umbrella.h */,
+				05CD0D09A94BED37C8F5238E7F3F6EC3 /* Pods-EmojiKeyboard_Tests.debug.xcconfig */,
+				5C6D483A5BB31D4E6ABE09AEF3864B78 /* Pods-EmojiKeyboard_Tests.release.xcconfig */,
+			);
+			name = "Pods-EmojiKeyboard_Tests";
+			path = "Target Support Files/Pods-EmojiKeyboard_Tests";
+			sourceTree = "<group>";
+		};
+		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3DCAB2B7CDE207B3958B6CB957FCC758 /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		BFBBFEDC8445F0D0DA621F6B907588A5 /* EmojiKeyboard */ = {
+			isa = PBXGroup;
+			children = (
+				E2C5E3BF381B4624D457E5121BE185FD /* Classes */,
+			);
+			path = EmojiKeyboard;
+			sourceTree = "<group>";
+		};
+		E2C5E3BF381B4624D457E5121BE185FD /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				EE919C0EC9C7D8F0AA1E05A3DE4DF98E /* ReplaceMe.swift */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		D07FDC34110F6CF20278E5CD679BEF68 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				887E3272573F0EE9980B418611FBDD75 /* EmojiKeyboard-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EEF1FF9A500E11A719D5F9A26D6B0585 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EEAE2874EC72B03A415D2AC4B9DC9F7E /* Pods-EmojiKeyboard_Tests-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F812E1E4DCCDE48410C546EC451DA20B /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				926372641C9E1970F56E54EEA63FC435 /* Pods-EmojiKeyboard_Example-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		43DCC49FE455041F16C7FBF307FCC495 /* EmojiKeyboard */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3122EEDD9ADCF072198AB12BD478E349 /* Build configuration list for PBXNativeTarget "EmojiKeyboard" */;
+			buildPhases = (
+				9484C5191E737708460B444831A31A90 /* Sources */,
+				10203AD08C2338D69FE81AB9D3E6E790 /* Frameworks */,
+				D07FDC34110F6CF20278E5CD679BEF68 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = EmojiKeyboard;
+			productName = EmojiKeyboard;
+			productReference = 2A61AF209C75E1FE2266F5858A309B41 /* EmojiKeyboard.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		5F529E81437FB52A62ECE3AD041B6F6F /* Pods-EmojiKeyboard_Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 540FF36D4D22935D865B72FAB15B767E /* Build configuration list for PBXNativeTarget "Pods-EmojiKeyboard_Tests" */;
+			buildPhases = (
+				C8BC0404A3C87895A3D354E363B30DE3 /* Sources */,
+				249D5AEB0BFFC3D2D67FE314A2BBF058 /* Frameworks */,
+				EEF1FF9A500E11A719D5F9A26D6B0585 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pods-EmojiKeyboard_Tests";
+			productName = "Pods-EmojiKeyboard_Tests";
+			productReference = F204C38FA15C055698624A2FA7AD81D3 /* Pods_EmojiKeyboard_Tests.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		D606F164122C7C9C66ABD4FD63539821 /* Pods-EmojiKeyboard_Example */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A1EDB526F1863E2882F4DE96C26FD49D /* Build configuration list for PBXNativeTarget "Pods-EmojiKeyboard_Example" */;
+			buildPhases = (
+				8C52DEE2DDE3FE697076D4343994D307 /* Sources */,
+				6B905B76435F917EA5DB7E7B6A1AB644 /* Frameworks */,
+				F812E1E4DCCDE48410C546EC451DA20B /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				76EEDA6421A479F92C8B581A5D8D19E4 /* PBXTargetDependency */,
+			);
+			name = "Pods-EmojiKeyboard_Example";
+			productName = "Pods-EmojiKeyboard_Example";
+			productReference = AAC59A5A52589EB2EE039C5BC5DF2447 /* Pods_EmojiKeyboard_Example.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D41D8CD98F00B204E9800998ECF8427E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0700;
+			};
+			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
+			productRefGroup = 05A3EDC2A445D4CF268A28B5F252315E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				43DCC49FE455041F16C7FBF307FCC495 /* EmojiKeyboard */,
+				D606F164122C7C9C66ABD4FD63539821 /* Pods-EmojiKeyboard_Example */,
+				5F529E81437FB52A62ECE3AD041B6F6F /* Pods-EmojiKeyboard_Tests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8C52DEE2DDE3FE697076D4343994D307 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B8DAC42FB185AECF51872388FBDD6174 /* Pods-EmojiKeyboard_Example-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9484C5191E737708460B444831A31A90 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FABBB82105D0EF014109789D0585B1D2 /* EmojiKeyboard-dummy.m in Sources */,
+				9BBF985D95FEA861A7EBA75439EB068F /* ReplaceMe.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C8BC0404A3C87895A3D354E363B30DE3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9B6B728E65522DC1C34CF817DBA5B14E /* Pods-EmojiKeyboard_Tests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		76EEDA6421A479F92C8B581A5D8D19E4 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = EmojiKeyboard;
+			target = 43DCC49FE455041F16C7FBF307FCC495 /* EmojiKeyboard */;
+			targetProxy = D9948190D54BED4C43693DE2E858B0F2 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		0ACDCBCB0B6796575F46FFA2F5410C6B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		22B4A6620575D9B50986F1EA64DF1160 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5C6D483A5BB31D4E6ABE09AEF3864B78 /* Pods-EmojiKeyboard_Tests.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-EmojiKeyboard_Tests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-EmojiKeyboard_Tests/Pods-EmojiKeyboard_Tests.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_EmojiKeyboard_Tests;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		4361E48BCA569C09F3170EAAA1FD9A85 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = A41BBB4B7406BE6C1C34A7DF83D580C7 /* Pods-EmojiKeyboard_Example.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-EmojiKeyboard_Example/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-EmojiKeyboard_Example/Pods-EmojiKeyboard_Example.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_EmojiKeyboard_Example;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		99D8B2EA34D36982C0AE1A18838CE1DC /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6641D7907D4202B3675A2E5689781B73 /* Pods-EmojiKeyboard_Example.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-EmojiKeyboard_Example/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-EmojiKeyboard_Example/Pods-EmojiKeyboard_Example.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_EmojiKeyboard_Example;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		AB8CAE3E3A1EF097E9A1D98DB34F6031 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = CCAE76F1CC7ECC59BDB802964B97CBA5 /* EmojiKeyboard.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/EmojiKeyboard/EmojiKeyboard-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/EmojiKeyboard/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/EmojiKeyboard/EmojiKeyboard.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = EmojiKeyboard;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		D3E3D092A3FF7311A98E44BBA36FFD12 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				ONLY_ACTIVE_ARCH = YES;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		E0EA15AEF0DB6BF5318093999011397C /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = CCAE76F1CC7ECC59BDB802964B97CBA5 /* EmojiKeyboard.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/EmojiKeyboard/EmojiKeyboard-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/EmojiKeyboard/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/EmojiKeyboard/EmojiKeyboard.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = EmojiKeyboard;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		EC9CBAB600A5A08EE72D9B64D24890A3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 05CD0D09A94BED37C8F5238E7F3F6EC3 /* Pods-EmojiKeyboard_Tests.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-EmojiKeyboard_Tests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-EmojiKeyboard_Tests/Pods-EmojiKeyboard_Tests.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_EmojiKeyboard_Tests;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D3E3D092A3FF7311A98E44BBA36FFD12 /* Debug */,
+				0ACDCBCB0B6796575F46FFA2F5410C6B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3122EEDD9ADCF072198AB12BD478E349 /* Build configuration list for PBXNativeTarget "EmojiKeyboard" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AB8CAE3E3A1EF097E9A1D98DB34F6031 /* Debug */,
+				E0EA15AEF0DB6BF5318093999011397C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		540FF36D4D22935D865B72FAB15B767E /* Build configuration list for PBXNativeTarget "Pods-EmojiKeyboard_Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EC9CBAB600A5A08EE72D9B64D24890A3 /* Debug */,
+				22B4A6620575D9B50986F1EA64DF1160 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A1EDB526F1863E2882F4DE96C26FD49D /* Build configuration list for PBXNativeTarget "Pods-EmojiKeyboard_Example" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4361E48BCA569C09F3170EAAA1FD9A85 /* Debug */,
+				99D8B2EA34D36982C0AE1A18838CE1DC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+}

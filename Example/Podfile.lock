@@ -1,0 +1,16 @@
+PODS:
+  - EmojiKeyboard (0.1.0)
+
+DEPENDENCIES:
+  - EmojiKeyboard (from `../`)
+
+EXTERNAL SOURCES:
+  EmojiKeyboard:
+    :path: ../
+
+SPEC CHECKSUMS:
+  EmojiKeyboard: 2d872e9860284d1e68976c48285463ef4273a7aa
+
+PODFILE CHECKSUM: a627c81de71c51ef2347fe2f7dace9251207ab0c
+
+COCOAPODS: 1.0.0
