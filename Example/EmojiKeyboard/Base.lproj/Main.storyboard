@@ -14,11 +14,11 @@
                         <viewControllerLayoutGuide type="bottom" id="2fi-mo-0CV"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="kh9-bI-dsS">
-                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
                             <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="4Sc-Jf-QND" userLabel="Regular Input Text Field">
-                                <rect key="frame" x="276" y="175" width="48" height="30"/>
+                                <rect key="frame" x="233" y="175" width="48" height="30"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="48" id="Ntm-wW-u3u"/>
                                 </constraints>
@@ -26,7 +26,7 @@
                                 <textInputTraits key="textInputTraits"/>
                             </textField>
                             <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="dEq-9x-J2b" userLabel="Emoji Keyboard Text Field">
-                                <rect key="frame" x="276" y="253" width="48" height="30"/>
+                                <rect key="frame" x="233" y="253" width="48" height="30"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="48" id="eyg-Il-DS1"/>
                                 </constraints>
@@ -34,13 +34,13 @@
                                 <textInputTraits key="textInputTraits"/>
                             </textField>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Emoji Keyboard Input" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TOQ-ex-5PW">
-                                <rect key="frame" x="94.5" y="253" width="162" height="21"/>
+                                <rect key="frame" x="51" y="253" width="162" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Regular Input" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="jGI-kG-GTM">
-                                <rect key="frame" x="154" y="175" width="102" height="21"/>
+                                <rect key="frame" x="111" y="175" width="102" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                 <nil key="highlightedColor"/>
@@ -50,14 +50,15 @@
                         <constraints>
                             <constraint firstItem="jGI-kG-GTM" firstAttribute="top" secondItem="4Sc-Jf-QND" secondAttribute="top" id="ABc-F8-QZD"/>
                             <constraint firstItem="TOQ-ex-5PW" firstAttribute="trailing" secondItem="dEq-9x-J2b" secondAttribute="leading" constant="-20" id="HWZ-mG-LHB"/>
-                            <constraint firstItem="dEq-9x-J2b" firstAttribute="centerX" secondItem="kh9-bI-dsS" secondAttribute="centerX" id="S4j-LI-ewS"/>
+                            <constraint firstItem="dEq-9x-J2b" firstAttribute="centerX" secondItem="kh9-bI-dsS" secondAttribute="centerX" constant="50" id="S4j-LI-ewS"/>
                             <constraint firstItem="jGI-kG-GTM" firstAttribute="trailing" secondItem="4Sc-Jf-QND" secondAttribute="leading" constant="-20" id="d52-fa-siC"/>
                             <constraint firstItem="dEq-9x-J2b" firstAttribute="top" secondItem="4Sc-Jf-QND" secondAttribute="bottom" constant="48" id="iYO-f1-cuD"/>
-                            <constraint firstItem="4Sc-Jf-QND" firstAttribute="centerX" secondItem="kh9-bI-dsS" secondAttribute="centerX" id="jhb-yi-a9z"/>
+                            <constraint firstItem="4Sc-Jf-QND" firstAttribute="centerX" secondItem="kh9-bI-dsS" secondAttribute="centerX" constant="50" id="jhb-yi-a9z"/>
                             <constraint firstItem="4Sc-Jf-QND" firstAttribute="top" secondItem="jyV-Pf-zRb" secondAttribute="bottom" constant="155" id="q0N-K4-9QH"/>
                             <constraint firstItem="TOQ-ex-5PW" firstAttribute="top" secondItem="dEq-9x-J2b" secondAttribute="top" id="shp-zk-qRU"/>
                         </constraints>
                     </view>
+                    <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina55"/>
                     <connections>
                         <outlet property="emojiTextField" destination="dEq-9x-J2b" id="lGd-Nv-SRR"/>
                     </connections>

@@ -113,12 +113,15 @@ public class EKBInputView: UIView, UICollectionViewDataSource, UICollectionViewD
   ///////////////////
   // UIView Overrides
   ///////////////////
-  
+
   override public func layoutMarginsDidChange() {
-    
+    /*self.setNeedsUpdateConstraints()
+    self.setNeedsLayout()
+    self.updateConstraintsIfNeeded()
+    self.layoutIfNeeded()*/
+
     let groupCount = (ekbInputViewDelegate?.getGroupCount())!
     for var index = 0; index < groupCount; ++index {
-      
       // Create UILabel
       let label = UILabel(frame: CGRectMake(0, 0, CGFloat.max, 20))  // CGFloat.max so that we guarantee we only shrink the label
       label.textAlignment = .Left
@@ -180,18 +183,18 @@ public class EKBInputView: UIView, UICollectionViewDataSource, UICollectionViewD
     
     return cell
   }
-  
-  
+
+
   //////////////////////////////////////////////
   // UICollectionViewDelegate protocol functions
   //////////////////////////////////////////////
   
   func collectionView(collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout,
     sizeForItemAtIndexPath indexPath: NSIndexPath) -> CGSize {
-      return CGSizeMake(collectionView.frame.width / 8, collectionView.frame.height / 5)
+      return CGSizeMake(UIScreen.mainScreen().bounds.width / 8, collectionView.frame.height / 5)
   }
 
-    
+
   //////////////////////////////////////////
   // UIScrollViewDelegate protocol functions
   //////////////////////////////////////////
@@ -229,12 +232,11 @@ public class EKBInputView: UIView, UICollectionViewDataSource, UICollectionViewD
     }
   }
   
-  
   public override func touchesBegan(touches: Set<UITouch>, withEvent event: UIEvent?) {
     let touch = touches[touches.startIndex]
     let location: CGPoint = touch.locationInView(collectionView)
     let indexPath = collectionView.indexPathForItemAtPoint(location)
-    
+
     if let indexPath = indexPath {
       currentEmojiSection = indexPath.section
       currentEmojiIndex = indexPath.row
