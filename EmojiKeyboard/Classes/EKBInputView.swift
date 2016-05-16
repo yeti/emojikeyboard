@@ -115,10 +115,10 @@ public class EKBInputView: UIView, UICollectionViewDataSource, UICollectionViewD
   ///////////////////
 
   override public func layoutMarginsDidChange() {
-    /*self.setNeedsUpdateConstraints()
+    self.setNeedsUpdateConstraints()
     self.setNeedsLayout()
     self.updateConstraintsIfNeeded()
-    self.layoutIfNeeded()*/
+    self.layoutIfNeeded()
 
     let groupCount = (ekbInputViewDelegate?.getGroupCount())!
     for var index = 0; index < groupCount; ++index {
