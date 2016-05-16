@@ -1,0 +1,1309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmojiList>
+	<EmojiModifier unicode="1F3FB" emoji="🏻"/>
+	<EmojiModifier unicode="1F3FC" emoji="🏼"/>
+	<EmojiModifier unicode="1F3FD" emoji="🏽"/>
+	<EmojiModifier unicode="1F3FE" emoji="🏾"/>
+	<EmojiModifier unicode="1F3FF" emoji="🏿"/>
+
+	<EmojiGroup name="SMILEYS &amp; PEOPLE">
+		<Emoji unicode="1F600" emoji="😀" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F62C" emoji="😬" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F601" emoji="😁" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F602" emoji="😂" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F603" emoji="😃" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F604" emoji="😄" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F605" emoji="😅" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F606" emoji="😆" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F607" emoji="😇" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F609" emoji="😉" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F60A" emoji="😊" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F642" emoji="🙂" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F643" emoji="🙃" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="263A FE0F" emoji="☺️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F60B" emoji="😋" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F60C" emoji="😌" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F60D" emoji="😍" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F618" emoji="😘" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F617" emoji="😗" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F619" emoji="😙" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F61A" emoji="😚" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F61C" emoji="😜" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F61D" emoji="😝" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F61B" emoji="😛" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F911" emoji="🤑" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F913" emoji="🤓" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F60E" emoji="😎" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F917" emoji="🤗" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F60F" emoji="😏" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F636" emoji="😶" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F610" emoji="😐" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F611" emoji="😑" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F612" emoji="😒" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F644" emoji="🙄" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F914" emoji="🤔" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F633" emoji="😳" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F61E" emoji="😞" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F61F" emoji="😟" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F620" emoji="😠" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F621" emoji="😡" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F614" emoji="😔" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F615" emoji="😕" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F641" emoji="🙁" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="2639 FE0F" emoji="☹️" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F623" emoji="😣" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F616" emoji="😖" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F62B" emoji="😫" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F629" emoji="😩" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F624" emoji="😤" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F62E" emoji="😮" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F631" emoji="😱" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F628" emoji="😨" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F630" emoji="😰" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F62F" emoji="😯" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F626" emoji="😦" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F627" emoji="😧" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F622" emoji="😢" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F625" emoji="😥" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F62A" emoji="😪" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F613" emoji="😓" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F62D" emoji="😭" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F635" emoji="😵" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F632" emoji="😲" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F910" emoji="🤐" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F637" emoji="😷" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F912" emoji="🤒" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F915" emoji="🤕" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F634" emoji="😴" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4A4" emoji="💤" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4A9" emoji="💩" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F608" emoji="😈" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F47F" emoji="👿" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F479" emoji="👹" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F47A" emoji="👺" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F480" emoji="💀" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F47B" emoji="👻" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F47D" emoji="👽" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F916" emoji="🤖" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F63A" emoji="😺" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F638" emoji="😸" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F639" emoji="😹" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F63B" emoji="😻" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F63C" emoji="😼" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F63D" emoji="😽" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F640" emoji="🙀" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F63F" emoji="😿" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F63E" emoji="😾" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F64C" emoji="🙌" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F44F" emoji="👏" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F44B" emoji="👋" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F44D" emoji="👍" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F44E" emoji="👎" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F44A" emoji="👊" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="270A"  emoji="✊" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="270C"  emoji="✌" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F44C" emoji="👌" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="270B"  emoji="✋" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F450" emoji="👐" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F4AA" emoji="💪" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F64F" emoji="🙏" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="261D"  emoji="☝" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F446" emoji="👆" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F447" emoji="👇" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F448" emoji="👈" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F449" emoji="👉" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F595" emoji="🖕" minversion="9.1" modifiableversion="8.3"/>
+		<Emoji unicode="1F590" emoji="🖐" minversion="9.1" modifiableversion="8.3"/>
+		<Emoji unicode="1F918" emoji="🤘" minversion="9.1" modifiableversion="8.3"/>
+		<Emoji unicode="1F596" emoji="🖖" minversion="8.3" modifiableversion="8.3"/>
+		<Emoji unicode="270D"  emoji="✍" minversion="9.1" modifiableversion="8.3"/>
+		<Emoji unicode="1F485" emoji="💅" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F444" emoji="👄" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F445" emoji="👅" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F442" emoji="👂" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F443" emoji="👃" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F441" emoji="👁" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F440" emoji="👀" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F464" emoji="👤" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F465" emoji="👥" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F5E3" emoji="🗣" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F476" emoji="👶" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F466" emoji="👦" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F467" emoji="👧" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F468" emoji="👨" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F469" emoji="👩" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F471" emoji="👱" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F474" emoji="👴" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F475" emoji="👵" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F472" emoji="👲" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F473" emoji="👳" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F46E" emoji="👮" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F477" emoji="👷" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F482" emoji="💂" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F575" emoji="🕵" minversion="9.1" modifiableversion="false"/> <!-- NOTE: This is usually modifiable, but ios doesn't support! -->
+		<Emoji unicode="1F385" emoji="🎅" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F47C" emoji="👼" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F478" emoji="👸" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F470" emoji="👰" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F6B6" emoji="🚶" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F3C3" emoji="🏃" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F483" emoji="💃" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F46F" emoji="👯" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F46B" emoji="👫" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F46C" emoji="👬" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F46D" emoji="👭" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F647" emoji="🙇" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F481" emoji="💁" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F645" emoji="🙅" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F646" emoji="🙆" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F64B" emoji="🙋" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F64E" emoji="🙎" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F64D" emoji="🙍" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F487" emoji="💇" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F486" emoji="💆" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F491" emoji="💑" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F469 200D 2764 FE0F 200D 1F469" emoji="👩‍❤️‍👩" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F468 200D 2764 FE0F 200D 1F468" emoji="👨‍❤️‍👨" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F48F" emoji="💏" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F469 200D 2764 FE0F 200D 1F48B 200D 1F469" emoji="👩‍❤️‍💋‍👩" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F468 200D 2764 FE0F 200D 1F48B 200D 1F468" emoji="👨‍❤️‍💋‍👨" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F46A" emoji="👪" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F468 200D 1F469 200D 1F467" emoji="👨‍👩‍👧" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F468 200D 1F469 200D 1F467 200D 1F466" emoji="👨‍👩‍👧‍👦" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F468 200D 1F469 200D 1F466 200D 1F466" emoji="👨‍👩‍👦‍👦" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F468 200D 1F469 200D 1F467 200D 1F467" emoji="👨‍👩‍👧‍👧" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F469 200D 1F469 200D 1F466" emoji="👩‍👩‍👦" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F469 200D 1F469 200D 1F467" emoji="👩‍👩‍👧" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F469 200D 1F469 200D 1F467 200D 1F466" emoji="👩‍👩‍👧‍👦" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F469 200D 1F469 200D 1F466 200D 1F466" emoji="👩‍👩‍👦‍👦" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F469 200D 1F469 200D 1F467 200D 1F467" emoji="👩‍👩‍👧‍👧" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F468 200D 1F468 200D 1F466" emoji="👨‍👨‍👦" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F468 200D 1F468 200D 1F467" emoji="👨‍👨‍👧" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F468 200D 1F468 200D 1F467 200D 1F466" emoji="👨‍👨‍👧‍👦" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F468 200D 1F468 200D 1F466 200D 1F466" emoji="👨‍👨‍👦‍👦" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F468 200D 1F468 200D 1F467 200D 1F467" emoji="👨‍👨‍👧‍👧" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F45A" emoji="👚" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F455" emoji="👕" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F456" emoji="👖" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F454" emoji="👔" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F457" emoji="👗" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F459" emoji="👙" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F458" emoji="👘" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F484" emoji="💄" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F48B" emoji="💋" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F463" emoji="👣" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F460" emoji="👠" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F461" emoji="👡" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F462" emoji="👢" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F45E" emoji="👞" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F45F" emoji="👟" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F452" emoji="👒" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3A9" emoji="🎩" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F393" emoji="🎓" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F451" emoji="👑" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="26D1"  emoji="⛑" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F392" emoji="🎒" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F45D" emoji="👝" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F45B" emoji="👛" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F45C" emoji="👜" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4BC" emoji="💼" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F453" emoji="👓" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F576" emoji="🕶" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F48D" emoji="💍" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F302" emoji="🌂" minversion="8.2" modifiableversion="false"/>
+	</EmojiGroup>
+	<EmojiGroup name="ANIMALS &amp; NATURE">
+		<Emoji unicode="1F436" emoji="🐶" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F431" emoji="🐱" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F42D" emoji="🐭" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F439" emoji="🐹" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F430" emoji="🐰" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F43B" emoji="🐻" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F43C" emoji="🐼" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F428" emoji="🐨" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F42F" emoji="🐯" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F981" emoji="🦁" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F42E" emoji="🐮" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F437" emoji="🐷" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F43D" emoji="🐽" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F438" emoji="🐸" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F419" emoji="🐙" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F435" emoji="🐵" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F648" emoji="🙈" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F649" emoji="🙉" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F64A" emoji="🙊" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F412" emoji="🐒" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F414" emoji="🐔" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F427" emoji="🐧" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F426" emoji="🐦" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F424" emoji="🐤" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F423" emoji="🐣" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F425" emoji="🐥" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F43A" emoji="🐺" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F417" emoji="🐗" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F434" emoji="🐴" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F984" emoji="🦄" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F41D" emoji="🐝" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F41B" emoji="🐛" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F40C" emoji="🐌" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F41E" emoji="🐞" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F41C" emoji="🐜" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F577" emoji="🕷" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F982" emoji="🦂" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F980" emoji="🦀" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F40D" emoji="🐍" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F422" emoji="🐢" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F420" emoji="🐠" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F41F" emoji="🐟" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F421" emoji="🐡" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F42C" emoji="🐬" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F433" emoji="🐳" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F40B" emoji="🐋" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F40A" emoji="🐊" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F406" emoji="🐆" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F405" emoji="🐅" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F403" emoji="🐃" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F402" emoji="🐂" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F404" emoji="🐄" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F42A" emoji="🐪" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F42B" emoji="🐫" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F418" emoji="🐘" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F410" emoji="🐐" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F40F" emoji="🐏" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F411" emoji="🐑" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F40E" emoji="🐎" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F416" emoji="🐖" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F400" emoji="🐀" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F401" emoji="🐁" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F413" emoji="🐓" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F983" emoji="🦃" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F54A" emoji="🕊" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F415" emoji="🐕" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F429" emoji="🐩" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F408" emoji="🐈" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F407" emoji="🐇" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F43F" emoji="🐿" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F43E" emoji="🐾" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F409" emoji="🐉" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F432" emoji="🐲" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F335" emoji="🌵" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F384" emoji="🎄" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F332" emoji="🌲" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F333" emoji="🌳" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F334" emoji="🌴" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F331" emoji="🌱" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F33F" emoji="🌿" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2618"  emoji="☘" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F340" emoji="🍀" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F38D" emoji="🎍" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F38B" emoji="🎋" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F343" emoji="🍃" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F342" emoji="🍂" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F341" emoji="🍁" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F33E" emoji="🌾" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F33A" emoji="🌺" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F33B" emoji="🌻" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F339" emoji="🌹" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F337" emoji="🌷" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F33C" emoji="🌼" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F338" emoji="🌸" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F490" emoji="💐" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F344" emoji="🍄" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F330" emoji="🌰" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F383" emoji="🎃" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F41A" emoji="🐚" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F578" emoji="🕸" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F30E" emoji="🌎" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F30D" emoji="🌍" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F30F" emoji="🌏" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F315" emoji="🌕" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F316" emoji="🌖" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F317" emoji="🌗" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F318" emoji="🌘" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F311" emoji="🌑" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F312" emoji="🌒" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F313" emoji="🌓" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F314" emoji="🌔" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F31A" emoji="🌚" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F31D" emoji="🌝" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F31B" emoji="🌛" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F31C" emoji="🌜" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F31E" emoji="🌞" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F319" emoji="🌙" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2B50 FE0F" emoji="⭐️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F31F" emoji="🌟" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4AB" emoji="💫" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2728" emoji="✨" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2604" emoji="☄" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2600 FE0F" emoji="☀️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F324" emoji="🌤" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="26C5 FE0F" emoji="⛅️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F325" emoji="🌥" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F326" emoji="🌦" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="2601 FE0F" emoji="☁️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F327" emoji="🌧" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="26C8" emoji="⛈" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F329" emoji="🌩" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="26A1 FE0F" emoji="⚡️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F525" emoji="🔥" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4A5" emoji="💥" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2744 FE0F" emoji="❄️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F328" emoji="🌨" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="2603" emoji="☃" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="26C4 FE0F" emoji="⛄️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F32C" emoji="🌬" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F4A8" emoji="💨" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F32A" emoji="🌪" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F32B" emoji="🌫" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="2602" emoji="☂" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="2614 FE0F" emoji="☔️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4A7" emoji="💧" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4A6" emoji="💦" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F30A" emoji="🌊" minversion="8.2" modifiableversion="false"/>
+	</EmojiGroup>
+	<EmojiGroup name="FOOD &amp; DRINK">
+		<Emoji unicode="1F34F" emoji="🍏" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F34E" emoji="🍎" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F350" emoji="🍐" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F34A" emoji="🍊" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F34B" emoji="🍋" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F34C" emoji="🍌" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F349" emoji="🍉" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F347" emoji="🍇" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F353" emoji="🍓" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F348" emoji="🍈" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F352" emoji="🍒" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F351" emoji="🍑" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F34D" emoji="🍍" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F345" emoji="🍅" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F346" emoji="🍆" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F336" emoji="🌶" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F33D" emoji="🌽" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F360" emoji="🍠" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F36F" emoji="🍯" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F35E" emoji="🍞" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F9C0" emoji="🧀" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F357" emoji="🍗" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F356" emoji="🍖" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F364" emoji="🍤" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F373" emoji="🍳" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F354" emoji="🍔" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F35F" emoji="🍟" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F32D" emoji="🌭" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F355" emoji="🍕" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F35D" emoji="🍝" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F32E" emoji="🌮" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F32F" emoji="🌯" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F35C" emoji="🍜" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F372" emoji="🍲" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F365" emoji="🍥" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F363" emoji="🍣" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F371" emoji="🍱" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F35B" emoji="🍛" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F359" emoji="🍙" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F35A" emoji="🍚" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F358" emoji="🍘" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F362" emoji="🍢" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F361" emoji="🍡" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F367" emoji="🍧" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F368" emoji="🍨" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F366" emoji="🍦" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F370" emoji="🍰" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F382" emoji="🎂" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F36E" emoji="🍮" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F36C" emoji="🍬" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F36D" emoji="🍭" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F36B" emoji="🍫" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F37F" emoji="🍿" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F369" emoji="🍩" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F36A" emoji="🍪" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F37A" emoji="🍺" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F37B" emoji="🍻" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F377" emoji="🍷" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F378" emoji="🍸" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F379" emoji="🍹" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F37E" emoji="🍾" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F376" emoji="🍶" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F375" emoji="🍵" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2615 FE0F" emoji="☕️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F37C" emoji="🍼" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F374" emoji="🍴" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F37D" emoji="🍽" minversion="9.1" modifiableversion="false"/>
+	</EmojiGroup>
+	<EmojiGroup name="ACTIVITY">
+		<Emoji unicode="26BD FE0F" emoji="⚽️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3C0" emoji="🏀" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3C8" emoji="🏈" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="26BE FE0F" emoji="⚾️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3BE" emoji="🎾" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3D0" emoji="🏐" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F3C9" emoji="🏉" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3B1" emoji="🎱" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="26F3 FE0F" emoji="⛳️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3CC" emoji="🏌" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F3D3" emoji="🏓" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F3F8" emoji="🏸" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F3D2" emoji="🏒" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F3D1" emoji="🏑" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F3CF" emoji="🏏" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F3BF" emoji="🎿" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="26F7" emoji="⛷" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F3C2" emoji="🏂" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="26F8" emoji="⛸" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F3F9" emoji="🏹" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F3A3" emoji="🎣" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F6A3" emoji="🚣" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F3CA" emoji="🏊" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F3C4" emoji="🏄" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F6C0" emoji="🛀" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="26F9" emoji="⛹" minversion="9.1" modifiableversion="8.3"/>
+		<Emoji unicode="1F3CB" emoji="🏋" minversion="9.1" modifiableversion="8.3"/>
+		<Emoji unicode="1F6B4" emoji="🚴" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F6B5" emoji="🚵" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F3C7" emoji="🏇" minversion="8.2" modifiableversion="8.3"/>
+		<Emoji unicode="1F574" emoji="🕴" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F3C6" emoji="🏆" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3BD" emoji="🎽" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3C5" emoji="🏅" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F396" emoji="🎖" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F397" emoji="🎗" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F3F5" emoji="🏵" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F3AB" emoji="🎫" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F39F" emoji="🎟" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F3AD" emoji="🎭" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3A8" emoji="🎨" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3AA" emoji="🎪" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3A4" emoji="🎤" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3A7" emoji="🎧" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3BC" emoji="🎼" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3B9" emoji="🎹" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3B7" emoji="🎷" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3BA" emoji="🎺" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3B8" emoji="🎸" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3BB" emoji="🎻" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3AC" emoji="🎬" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3AE" emoji="🎮" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F47E" emoji="👾" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3AF" emoji="🎯" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3B2" emoji="🎲" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3B0" emoji="🎰" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3B3" emoji="🎳" minversion="8.2" modifiableversion="false"/>
+	</EmojiGroup>
+	<EmojiGroup name="TRAVEL &amp; PLACES">
+		<Emoji unicode="1F697" emoji="🚗" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F695" emoji="🚕" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F699" emoji="🚙" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F68C" emoji="🚌" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F68E" emoji="🚎" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3CE" emoji="🏎" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F693" emoji="🚓" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F691" emoji="🚑" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F692" emoji="🚒" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F690" emoji="🚐" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F69A" emoji="🚚" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F69B" emoji="🚛" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F69C" emoji="🚜" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3CD" emoji="🏍" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F6B2" emoji="🚲" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F6A8" emoji="🚨" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F694" emoji="🚔" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F68D" emoji="🚍" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F698" emoji="🚘" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F696" emoji="🚖" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F6A1" emoji="🚡" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F6A0" emoji="🚠" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F69F" emoji="🚟" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F683" emoji="🚃" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F68B" emoji="🚋" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F69D" emoji="🚝" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F684" emoji="🚄" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F685" emoji="🚅" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F688" emoji="🚈" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F69E" emoji="🚞" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F682" emoji="🚂" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F686" emoji="🚆" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F687" emoji="🚇" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F68A" emoji="🚊" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F689" emoji="🚉" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F681" emoji="🚁" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F6E9" emoji="🛩" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="2708 FE0F" emoji="✈️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F6EB" emoji="🛫" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F6EC" emoji="🛬" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="26F5 FE0F" emoji="⛵️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F6E5" emoji="🛥" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F6A4" emoji="🚤" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="26F4" emoji="⛴" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F6F3" emoji="🛳" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F680" emoji="🚀" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F6F0" emoji="🛰" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F4BA" emoji="💺" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2693 FE0F" emoji="⚓️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F6A7" emoji="🚧" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="26FD FE0F" emoji="⛽️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F68F" emoji="🚏" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F6A6" emoji="🚦" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F6A5" emoji="🚥" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3C1" emoji="🏁" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F6A2" emoji="🚢" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3A1" emoji="🎡" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3A2" emoji="🎢" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3A0" emoji="🎠" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3D7" emoji="🏗" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F301" emoji="🌁" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F5FC" emoji="🗼" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3ED" emoji="🏭" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="26F2 FE0F" emoji="⛲️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F391" emoji="🎑" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="26F0" emoji="⛰" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F3D4" emoji="🏔" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F5FB" emoji="🗻" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F30B" emoji="🌋" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F5FE" emoji="🗾" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3D5" emoji="🏕" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="26FA FE0F" emoji="⛺️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3DE" emoji="🏞" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F6E3" emoji="🛣" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F6E4" emoji="🛤" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F305" emoji="🌅" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F304" emoji="🌄" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3DC" emoji="🏜" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F3D6" emoji="🏖" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F3DD" emoji="🏝" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F307" emoji="🌇" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F306" emoji="🌆" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3D9" emoji="🏙" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F303" emoji="🌃" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F309" emoji="🌉" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F30C" emoji="🌌" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F320" emoji="🌠" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F387" emoji="🎇" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F386" emoji="🎆" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F308" emoji="🌈" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3D8" emoji="🏘" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F3F0" emoji="🏰" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3EF" emoji="🏯" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3DF" emoji="🏟" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F5FD" emoji="🗽" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3E0" emoji="🏠" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3E1" emoji="🏡" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3DA" emoji="🏚" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F3E2" emoji="🏢" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3EC" emoji="🏬" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3E3" emoji="🏣" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3E4" emoji="🏤" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3E5" emoji="🏥" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3E6" emoji="🏦" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3E8" emoji="🏨" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3EA" emoji="🏪" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3EB" emoji="🏫" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3E9" emoji="🏩" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F492" emoji="💒" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3DB" emoji="🏛" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="26EA FE0F" emoji="⛪️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F54C" emoji="🕌" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F54D" emoji="🕍" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F54B" emoji="🕋" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="26E9" emoji="⛩" minversion="9.1" modifiableversion="false"/>
+	</EmojiGroup>
+	<EmojiGroup name="OBJECTS">
+		<Emoji unicode="231A FE0F" emoji="⌚️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4F1" emoji="📱" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4F2" emoji="📲" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4BB" emoji="💻" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2328"  emoji="⌨" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F5A5" emoji="🖥" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F5A8" emoji="🖨" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F5B1" emoji="🖱" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F5B2" emoji="🖲" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F579" emoji="🕹" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F5DC" emoji="🗜" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F4BD" emoji="💽" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4BE" emoji="💾" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4BF" emoji="💿" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4C0" emoji="📀" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4FC" emoji="📼" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4F7" emoji="📷" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4F8" emoji="📸" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F4F9" emoji="📹" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3A5" emoji="🎥" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4FD" emoji="📽" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F39E" emoji="🎞" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F4DE" emoji="📞" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="260E FE0F" emoji="☎️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4DF" emoji="📟" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4E0" emoji="📠" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4FA" emoji="📺" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4FB" emoji="📻" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F399" emoji="🎙" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F39A" emoji="🎚" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F39B" emoji="🎛" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="23F1"  emoji="⏱" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="23F2"  emoji="⏲" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="23F0"  emoji="⏰" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F570" emoji="🕰" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="23F3"  emoji="⏳" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="231B FE0F" emoji="⌛️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4E1" emoji="📡" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F50B" emoji="🔋" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F50C" emoji="🔌" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4A1" emoji="💡" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F526" emoji="🔦" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F56F" emoji="🕯" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F5D1" emoji="🗑" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F6E2" emoji="🛢" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F4B8" emoji="💸" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4B5" emoji="💵" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4B4" emoji="💴" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4B6" emoji="💶" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4B7" emoji="💷" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4B0" emoji="💰" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4B3" emoji="💳" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F48E" emoji="💎" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2696"  emoji="⚖" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F527" emoji="🔧" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F528" emoji="🔨" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2692"  emoji="⚒" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F6E0" emoji="🛠" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="26CF"  emoji="⛏" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F529" emoji="🔩" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2699"  emoji="⚙" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="26D3"  emoji="⛓" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F52B" emoji="🔫" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4A3" emoji="💣" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F52A" emoji="🔪" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F5E1" emoji="🗡" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="2694"  emoji="⚔" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F6E1" emoji="🛡" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F6AC" emoji="🚬" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2620"  emoji="☠" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="26B0"  emoji="⚰" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="26B1"  emoji="⚱" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F3FA" emoji="🏺" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F52E" emoji="🔮" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4FF" emoji="📿" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F488" emoji="💈" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2697"  emoji="⚗" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F52D" emoji="🔭" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F52C" emoji="🔬" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F573" emoji="🕳" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F48A" emoji="💊" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F489" emoji="💉" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F321" emoji="🌡" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F3F7" emoji="🏷" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F516" emoji="🔖" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F6BD" emoji="🚽" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F6BF" emoji="🚿" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F6C1" emoji="🛁" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F511" emoji="🔑" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F5DD" emoji="🗝" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F6CB" emoji="🛋" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F6CC" emoji="🛌" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F6CF" emoji="🛏" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F6AA" emoji="🚪" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F6CE" emoji="🛎" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F5BC" emoji="🖼" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F5FA" emoji="🗺" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="26F1"  emoji="⛱" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F5FF" emoji="🗿" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F6CD" emoji="🛍" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F388" emoji="🎈" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F38F" emoji="🎏" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F380" emoji="🎀" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F381" emoji="🎁" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F38A" emoji="🎊" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F389" emoji="🎉" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F38E" emoji="🎎" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F390" emoji="🎐" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F38C" emoji="🎌" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3EE" emoji="🏮" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2709 FE0F" emoji="✉️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4E9" emoji="📩" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4E8" emoji="📨" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4E7" emoji="📧" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F48C" emoji="💌" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4EE" emoji="📮" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4EA" emoji="📪" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4EB" emoji="📫" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4EC" emoji="📬" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4ED" emoji="📭" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4E6" emoji="📦" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4EF" emoji="📯" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4E5" emoji="📥" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4E4" emoji="📤" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4DC" emoji="📜" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4C3" emoji="📃" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4D1" emoji="📑" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4CA" emoji="📊" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4C8" emoji="📈" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4C9" emoji="📉" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4C4" emoji="📄" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4C5" emoji="📅" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4C6" emoji="📆" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F5D3" emoji="🗓" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F4C7" emoji="📇" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F5C3" emoji="🗃" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F5F3" emoji="🗳" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F5C4" emoji="🗄" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F4CB" emoji="📋" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F5D2" emoji="🗒" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F4C1" emoji="📁" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4C2" emoji="📂" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F5C2" emoji="🗂" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F5DE" emoji="🗞" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F4F0" emoji="📰" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4D3" emoji="📓" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4D5" emoji="📕" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4D7" emoji="📗" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4D8" emoji="📘" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4D9" emoji="📙" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4D4" emoji="📔" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4D2" emoji="📒" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4DA" emoji="📚" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4D6" emoji="📖" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F517" emoji="🔗" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4CE" emoji="📎" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F587" emoji="🖇" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="2702 FE0F" emoji="✂️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4D0" emoji="📐" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4CF" emoji="📏" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4CC" emoji="📌" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4CD" emoji="📍" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F6A9" emoji="🚩" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3F3" emoji="🏳" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F3F4" emoji="🏴" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F510" emoji="🔐" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F512" emoji="🔒" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F513" emoji="🔓" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F50F" emoji="🔏" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F58A" emoji="🖊" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F58B" emoji="🖋" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="2712 FE0F" emoji="✒️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4DD" emoji="📝" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="270F FE0F" emoji="✏️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F58D" emoji="🖍" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F58C" emoji="🖌" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F50D" emoji="🔍" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F50E" emoji="🔎" minversion="8.2" modifiableversion="false"/>
+	</EmojiGroup>
+	<EmojiGroup name="SYMBOLS">
+		<Emoji unicode="2764 FE0F" emoji="❤️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F49B" emoji="💛" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F49A" emoji="💚" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F499" emoji="💙" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F49C" emoji="💜" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F494" emoji="💔" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2763"  emoji="❣" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F495" emoji="💕" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F49E" emoji="💞" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F493" emoji="💓" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F497" emoji="💗" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F496" emoji="💖" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F498" emoji="💘" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F49D" emoji="💝" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F49F" emoji="💟" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="262E"  emoji="☮" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="271D"  emoji="✝" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="262A"  emoji="☪" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F549" emoji="🕉" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="2638"  emoji="☸" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="2721"  emoji="✡" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F52F" emoji="🔯" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F54E" emoji="🕎" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="262F"  emoji="☯" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="2626"  emoji="☦" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F6D0" emoji="🛐" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="26CE"  emoji="⛎" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2648 FE0F" emoji="♈️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2649 FE0F" emoji="♉️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="264A FE0F" emoji="♊️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="264B FE0F" emoji="♋️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="264C FE0F" emoji="♌️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="264D FE0F" emoji="♍️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="264E FE0F" emoji="♎️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="264F FE0F" emoji="♏️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2650 FE0F" emoji="♐️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2651 FE0F" emoji="♑️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2652 FE0F" emoji="♒️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2653 FE0F" emoji="♓️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F194" emoji="🆔" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="269B"  emoji="⚛" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F233" emoji="🈳" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F239" emoji="🈹" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2622"  emoji="☢" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="2623"  emoji="☣" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F4F4" emoji="📴" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4F3" emoji="📳" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F236" emoji="🈶" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F21A FE0F" emoji="🈚️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F238" emoji="🈸" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F23A" emoji="🈺" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F237" emoji="🈷" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2734 FE0F" emoji="✴️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F19A" emoji="🆚" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F251" emoji="🉑" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4AE" emoji="💮" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F250" emoji="🉐" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="3299 FE0F" emoji="㊙️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="3297 FE0F" emoji="㊗️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F234" emoji="🈴" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F235" emoji="🈵" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F232" emoji="🈲" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F170" emoji="🅰" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F171" emoji="🅱" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F18E" emoji="🆎" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F191" emoji="🆑" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F17E" emoji="🅾" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F198" emoji="🆘" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="26D4 FE0F" emoji="⛔️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4DB" emoji="📛" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F6AB" emoji="🚫" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="274C"  emoji="❌" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2B55 FE0F" emoji="⭕️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4A2" emoji="💢" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2668 FE0F" emoji="♨️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F6B7" emoji="🚷" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F6AF" emoji="🚯" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F6B3" emoji="🚳" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F6B1" emoji="🚱" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F51E" emoji="🔞" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4F5" emoji="📵" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2757 FE0F" emoji="❗️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2755"  emoji="❕" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2753"  emoji="❓" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2754"  emoji="❔" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="203C FE0F" emoji="‼️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2049 FE0F" emoji="⁉️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4AF" emoji="💯" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F505" emoji="🔅" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F506" emoji="🔆" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F531" emoji="🔱" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="269C"  emoji="⚜" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="303D FE0F" emoji="〽️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="26A0 FE0F" emoji="⚠️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F6B8" emoji="🚸" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F530" emoji="🔰" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="267B FE0F" emoji="♻️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F22F FE0F" emoji="🈯️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4B9" emoji="💹" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2747 FE0F" emoji="❇️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2733 FE0F" emoji="✳️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="274E"  emoji="❎" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2705"  emoji="✅" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4A0" emoji="💠" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F300" emoji="🌀" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="27BF"  emoji="➿" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F310" emoji="🌐" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="24C2 FE0F" emoji="Ⓜ️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3E7" emoji="🏧" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F202" emoji="🈂" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F6C2" emoji="🛂" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F6C3" emoji="🛃" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F6C4" emoji="🛄" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F6C5" emoji="🛅" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="267F FE0F" emoji="♿️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F6AD" emoji="🚭" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F6BE" emoji="🚾" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F17F FE0F" emoji="🅿️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F6B0" emoji="🚰" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F6B9" emoji="🚹" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F6BA" emoji="🚺" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F6BC" emoji="🚼" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F6BB" emoji="🚻" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F6AE" emoji="🚮" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3A6" emoji="🎦" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4F6" emoji="📶" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F201" emoji="🈁" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F196" emoji="🆖" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F197" emoji="🆗" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F199" emoji="🆙" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F192" emoji="🆒" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F195" emoji="🆕" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F193" emoji="🆓" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="30 FE0F 20E3" emoji="0️⃣" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="31 FE0F 20E3" emoji="1️⃣" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="32 FE0F 20E3" emoji="2️⃣" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="33 FE0F 20E3" emoji="3️⃣" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="34 FE0F 20E3" emoji="4️⃣" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="35 FE0F 20E3" emoji="5️⃣" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="36 FE0F 20E3" emoji="6️⃣" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="37 FE0F 20E3" emoji="7️⃣" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="38 FE0F 20E3" emoji="8️⃣" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="39 FE0F 20E3" emoji="9️⃣" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F51F" emoji="🔟" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F522" emoji="🔢" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="25B6 FE0F" emoji="▶️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="23F8"  emoji="⏸" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="23EF"  emoji="⏯" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="23F9"  emoji="⏹" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="23FA"  emoji="⏺" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="23ED"  emoji="⏭" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="23EE"  emoji="⏮" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="23E9"  emoji="⏩" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="23EA"  emoji="⏪" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F500" emoji="🔀" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F501" emoji="🔁" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F502" emoji="🔂" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="25C0 FE0F" emoji="◀️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F53C" emoji="🔼" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F53D" emoji="🔽" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="23EB"  emoji="⏫" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="23EC"  emoji="⏬" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="27A1 FE0F" emoji="➡️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2B05 FE0F" emoji="⬅️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2B06 FE0F" emoji="⬆️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2B07 FE0F" emoji="⬇️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2197 FE0F" emoji="↗️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2198 FE0F" emoji="↘️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2199 FE0F" emoji="↙️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2196 FE0F" emoji="↖️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2195 FE0F" emoji="↕️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2194 FE0F" emoji="↔️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F504" emoji="🔄" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="21AA FE0F" emoji="↪️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="21A9 FE0F" emoji="↩️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2934 FE0F" emoji="⤴️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2935 FE0F" emoji="⤵️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="23 FE0F 20E3" emoji="#️⃣" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2A FE0F 20E3" emoji="*️⃣" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="2139 FE0F" emoji="ℹ️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F524" emoji="🔤" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F521" emoji="🔡" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F520" emoji="🔠" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F523" emoji="🔣" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3B5" emoji="🎵" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3B6" emoji="🎶" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="3030"  emoji="〰" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="27B0"  emoji="➰" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2714 FE0F" emoji="✔️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F503" emoji="🔃" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2795"  emoji="➕" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2796"  emoji="➖" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2797"  emoji="➗" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2716 FE0F" emoji="✖️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4B2" emoji="💲" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4B1" emoji="💱" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="A9" emoji="©" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="AE" emoji="®" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="2122"  emoji="™" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F51A" emoji="🔚" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F519" emoji="🔙" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F51B" emoji="🔛" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F51D" emoji="🔝" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F51C" emoji="🔜" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2611 FE0F" emoji="☑️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F518" emoji="🔘" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="26AA FE0F" emoji="⚪️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="26AB FE0F" emoji="⚫️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F534" emoji="🔴" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F535" emoji="🔵" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F538" emoji="🔸" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F539" emoji="🔹" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F536" emoji="🔶" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F537" emoji="🔷" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F53A" emoji="🔺" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="25AA FE0F" emoji="▪️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="25AB FE0F" emoji="▫️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2B1B FE0F" emoji="⬛️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2B1C FE0F" emoji="⬜️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F53B" emoji="🔻" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="25FC FE0F" emoji="◼️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="25FB FE0F" emoji="◻️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="25FE FE0F" emoji="◾️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="25FD FE0F" emoji="◽️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F532" emoji="🔲" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F533" emoji="🔳" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F508" emoji="🔈" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F509" emoji="🔉" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F50A" emoji="🔊" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F507" emoji="🔇" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4E3" emoji="📣" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F4E2" emoji="📢" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F514" emoji="🔔" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F515" emoji="🔕" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F0CF" emoji="🃏" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F004 FE0F" emoji="🀄️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2660 FE0F" emoji="♠️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2663 FE0F" emoji="♣️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2665 FE0F" emoji="♥️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="2666 FE0F" emoji="♦️" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F3B4" emoji="🎴" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F441 200D 1F5E8" emoji="👁‍🗨" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F4AD" emoji="💭" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F5EF" emoji="🗯" minversion="9.1" modifiableversion="false"/>
+		<Emoji unicode="1F4AC" emoji="💬" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F550" emoji="🕐" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F551" emoji="🕑" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F552" emoji="🕒" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F553" emoji="🕓" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F554" emoji="🕔" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F555" emoji="🕕" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F556" emoji="🕖" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F557" emoji="🕗" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F558" emoji="🕘" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F559" emoji="🕙" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F55A" emoji="🕚" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F55B" emoji="🕛" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F55C" emoji="🕜" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F55D" emoji="🕝" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F55E" emoji="🕞" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F55F" emoji="🕟" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F560" emoji="🕠" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F561" emoji="🕡" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F562" emoji="🕢" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F563" emoji="🕣" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F564" emoji="🕤" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F565" emoji="🕥" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F566" emoji="🕦" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F567" emoji="🕧" minversion="8.2" modifiableversion="false"/>
+	</EmojiGroup>
+	<EmojiGroup name="FLAGS">
+		<Emoji unicode="1F1E6 1F1EB" emoji="🇦🇫" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E6 1F1FD" emoji="🇦🇽" minversion="9.0" modifiableversion="false"/>
+		<Emoji unicode="1F1E6 1F1F1" emoji="🇦🇱" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E9 1F1FF" emoji="🇩🇿" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E6 1F1F8" emoji="🇦🇸" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E6 1F1E9" emoji="🇦🇩" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E6 1F1F4" emoji="🇦🇴" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E6 1F1EE" emoji="🇦🇮" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E6 1F1F6" emoji="🇦🇶" minversion="9.0" modifiableversion="false"/>
+		<Emoji unicode="1F1E6 1F1EC" emoji="🇦🇬" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E6 1F1F7" emoji="🇦🇷" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E6 1F1F2" emoji="🇦🇲" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E6 1F1FC" emoji="🇦🇼" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E6 1F1FA" emoji="🇦🇺" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E6 1F1F9" emoji="🇦🇹" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E6 1F1FF" emoji="🇦🇿" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E7 1F1F8" emoji="🇧🇸" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E7 1F1ED" emoji="🇧🇭" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E7 1F1E9" emoji="🇧🇩" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E7 1F1E7" emoji="🇧🇧" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E7 1F1FE" emoji="🇧🇾" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E7 1F1EA" emoji="🇧🇪" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E7 1F1FF" emoji="🇧🇿" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E7 1F1EF" emoji="🇧🇯" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E7 1F1F2" emoji="🇧🇲" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E7 1F1F9" emoji="🇧🇹" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E7 1F1F4" emoji="🇧🇴" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E7 1F1E6" emoji="🇧🇦" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E7 1F1FC" emoji="🇧🇼" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E7 1F1F7" emoji="🇧🇷" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1EE 1F1F4" emoji="🇮🇴" minversion="9.0" modifiableversion="false"/>
+		<Emoji unicode="1F1FB 1F1EC" emoji="🇻🇬" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E7 1F1F3" emoji="🇧🇳" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E7 1F1EC" emoji="🇧🇬" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E7 1F1EB" emoji="🇧🇫" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E7 1F1EE" emoji="🇧🇮" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F0 1F1ED" emoji="🇰🇭" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E8 1F1F2" emoji="🇨🇲" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E8 1F1E6" emoji="🇨🇦" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1EE 1F1E8" emoji="🇮🇨" minversion="9.0" modifiableversion="false"/>
+		<Emoji unicode="1F1E8 1F1FB" emoji="🇨🇻" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E7 1F1F6" emoji="🇧🇶" minversion="9.0" modifiableversion="false"/>
+		<Emoji unicode="1F1F0 1F1FE" emoji="🇰🇾" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E8 1F1EB" emoji="🇨🇫" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F9 1F1E9" emoji="🇹🇩" minversion="9.0" modifiableversion="false"/>
+		<Emoji unicode="1F1E8 1F1F1" emoji="🇨🇱" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E8 1F1F3" emoji="🇨🇳" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F1E8 1F1FD" emoji="🇨🇽" minversion="9.0" modifiableversion="false"/>
+		<Emoji unicode="1F1E8 1F1E8" emoji="🇨🇨" minversion="9.0" modifiableversion="false"/>
+		<Emoji unicode="1F1E8 1F1F4" emoji="🇨🇴" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F0 1F1F2" emoji="🇰🇲" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E8 1F1EC" emoji="🇨🇬" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E8 1F1E9" emoji="🇨🇩" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E8 1F1F0" emoji="🇨🇰" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E8 1F1F7" emoji="🇨🇷" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E8 1F1EE" emoji="🇨🇮" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1ED 1F1F7" emoji="🇭🇷" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E8 1F1FA" emoji="🇨🇺" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E8 1F1FC" emoji="🇨🇼" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E8 1F1FE" emoji="🇨🇾" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E8 1F1FF" emoji="🇨🇿" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E9 1F1F0" emoji="🇩🇰" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E9 1F1EF" emoji="🇩🇯" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E9 1F1F2" emoji="🇩🇲" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E9 1F1F4" emoji="🇩🇴" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1EA 1F1E8" emoji="🇪🇨" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1EA 1F1EC" emoji="🇪🇬" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F8 1F1FB" emoji="🇸🇻" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1EC 1F1F6" emoji="🇬🇶" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1EA 1F1F7" emoji="🇪🇷" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1EA 1F1EA" emoji="🇪🇪" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1EA 1F1F9" emoji="🇪🇹" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1EA 1F1FA" emoji="🇪🇺" minversion="9.0" modifiableversion="false"/>
+		<Emoji unicode="1F1EB 1F1F0" emoji="🇫🇰" minversion="9.0" modifiableversion="false"/>
+		<Emoji unicode="1F1EB 1F1F4" emoji="🇫🇴" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1EB 1F1EF" emoji="🇫🇯" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1EB 1F1EE" emoji="🇫🇮" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1EB 1F1F7" emoji="🇫🇷" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F1EC 1F1EB" emoji="🇬🇫" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F5 1F1EB" emoji="🇵🇫" minversion="9.0" modifiableversion="false"/>
+		<Emoji unicode="1F1F9 1F1EB" emoji="🇹🇫" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1EC 1F1E6" emoji="🇬🇦" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1EC 1F1F2" emoji="🇬🇲" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1EC 1F1EA" emoji="🇬🇪" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E9 1F1EA" emoji="🇩🇪" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F1EC 1F1ED" emoji="🇬🇭" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1EC 1F1EE" emoji="🇬🇮" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1EC 1F1F7" emoji="🇬🇷" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1EC 1F1F1" emoji="🇬🇱" minversion="9.0" modifiableversion="false"/>
+		<Emoji unicode="1F1EC 1F1E9" emoji="🇬🇩" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1EC 1F1F5" emoji="🇬🇵" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1EC 1F1FA" emoji="🇬🇺" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1EC 1F1F9" emoji="🇬🇹" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1EC 1F1EC" emoji="🇬🇬" minversion="9.0" modifiableversion="false"/>
+		<Emoji unicode="1F1EC 1F1F3" emoji="🇬🇳" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1EC 1F1FC" emoji="🇬🇼" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1EC 1F1FE" emoji="🇬🇾" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1ED 1F1F9" emoji="🇭🇹" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1ED 1F1F3" emoji="🇭🇳" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1ED 1F1F0" emoji="🇭🇰" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1ED 1F1FA" emoji="🇭🇺" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1EE 1F1F8" emoji="🇮🇸" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1EE 1F1F3" emoji="🇮🇳" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1EE 1F1E9" emoji="🇮🇩" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1EE 1F1F7" emoji="🇮🇷" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1EE 1F1F6" emoji="🇮🇶" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1EE 1F1EA" emoji="🇮🇪" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1EE 1F1F2" emoji="🇮🇲" minversion="9.0" modifiableversion="false"/>
+		<Emoji unicode="1F1EE 1F1F1" emoji="🇮🇱" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1EE 1F1F9" emoji="🇮🇹" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F1EF 1F1F2" emoji="🇯🇲" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1EF 1F1F5" emoji="🇯🇵" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F1EF 1F1EA" emoji="🇯🇪" minversion="9.0" modifiableversion="false"/>
+		<Emoji unicode="1F1EF 1F1F4" emoji="🇯🇴" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F0 1F1FF" emoji="🇰🇿" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F0 1F1EA" emoji="🇰🇪" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F0 1F1EE" emoji="🇰🇮" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1FD 1F1F0" emoji="🇽🇰" minversion="9.0" modifiableversion="false"/>
+		<Emoji unicode="1F1F0 1F1FC" emoji="🇰🇼" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F0 1F1EC" emoji="🇰🇬" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F1 1F1E6" emoji="🇱🇦" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F1 1F1FB" emoji="🇱🇻" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F1 1F1E7" emoji="🇱🇧" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F1 1F1F8" emoji="🇱🇸" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F1 1F1F7" emoji="🇱🇷" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F1 1F1FE" emoji="🇱🇾" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F1 1F1EE" emoji="🇱🇮" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F1 1F1F9" emoji="🇱🇹" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F1 1F1FA" emoji="🇱🇺" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F2 1F1F4" emoji="🇲🇴" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F2 1F1F0" emoji="🇲🇰" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F2 1F1EC" emoji="🇲🇬" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F2 1F1FC" emoji="🇲🇼" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F2 1F1FE" emoji="🇲🇾" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F2 1F1FB" emoji="🇲🇻" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F2 1F1F1" emoji="🇲🇱" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F2 1F1F9" emoji="🇲🇹" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F2 1F1ED" emoji="🇲🇭" minversion="9.0" modifiableversion="false"/>
+		<Emoji unicode="1F1F2 1F1F6" emoji="🇲🇶" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F2 1F1F7" emoji="🇲🇷" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F2 1F1FA" emoji="🇲🇺" minversion="9.0" modifiableversion="false"/>
+		<Emoji unicode="1F1FE 1F1F9" emoji="🇾🇹" minversion="9.0" modifiableversion="false"/>
+		<Emoji unicode="1F1F2 1F1FD" emoji="🇲🇽" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1EB 1F1F2" emoji="🇫🇲" minversion="9.0" modifiableversion="false"/>
+		<Emoji unicode="1F1F2 1F1E9" emoji="🇲🇩" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F2 1F1E8" emoji="🇲🇨" minversion="9.0" modifiableversion="false"/>
+		<Emoji unicode="1F1F2 1F1F3" emoji="🇲🇳" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F2 1F1EA" emoji="🇲🇪" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F2 1F1F8" emoji="🇲🇸" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F2 1F1E6" emoji="🇲🇦" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F2 1F1FF" emoji="🇲🇿" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F2 1F1F2" emoji="🇲🇲" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F3 1F1E6" emoji="🇳🇦" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F3 1F1F7" emoji="🇳🇷" minversion="9.0" modifiableversion="false"/>
+		<Emoji unicode="1F1F3 1F1F5" emoji="🇳🇵" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F3 1F1F1" emoji="🇳🇱" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F3 1F1E8" emoji="🇳🇨" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F3 1F1FF" emoji="🇳🇿" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F3 1F1EE" emoji="🇳🇮" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F3 1F1EA" emoji="🇳🇪" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F3 1F1EC" emoji="🇳🇬" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F3 1F1FA" emoji="🇳🇺" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F3 1F1EB" emoji="🇳🇫" minversion="9.0" modifiableversion="false"/>
+		<Emoji unicode="1F1F0 1F1F5" emoji="🇰🇵" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F2 1F1F5" emoji="🇲🇵" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F3 1F1F4" emoji="🇳🇴" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F4 1F1F2" emoji="🇴🇲" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F5 1F1F0" emoji="🇵🇰" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F5 1F1FC" emoji="🇵🇼" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F5 1F1F8" emoji="🇵🇸" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F5 1F1E6" emoji="🇵🇦" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F5 1F1EC" emoji="🇵🇬" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F5 1F1FE" emoji="🇵🇾" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F5 1F1EA" emoji="🇵🇪" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F5 1F1ED" emoji="🇵🇭" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F5 1F1F3" emoji="🇵🇳" minversion="9.0" modifiableversion="false"/>
+		<Emoji unicode="1F1F5 1F1F1" emoji="🇵🇱" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F5 1F1F9" emoji="🇵🇹" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F5 1F1F7" emoji="🇵🇷" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F6 1F1E6" emoji="🇶🇦" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F7 1F1EA" emoji="🇷🇪" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F7 1F1F4" emoji="🇷🇴" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F7 1F1FA" emoji="🇷🇺" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F1F7 1F1FC" emoji="🇷🇼" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1FC 1F1F8" emoji="🇼🇸" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F8 1F1F2" emoji="🇸🇲" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F8 1F1F9" emoji="🇸🇹" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F8 1F1E6" emoji="🇸🇦" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F8 1F1F3" emoji="🇸🇳" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F7 1F1F8" emoji="🇷🇸" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F8 1F1E8" emoji="🇸🇨" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F8 1F1F1" emoji="🇸🇱" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F8 1F1EC" emoji="🇸🇬" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F8 1F1FD" emoji="🇸🇽" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F8 1F1F0" emoji="🇸🇰" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F8 1F1EE" emoji="🇸🇮" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1EC 1F1F8" emoji="🇬🇸" minversion="9.0" modifiableversion="false"/>
+		<Emoji unicode="1F1F8 1F1E7" emoji="🇸🇧" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F8 1F1F4" emoji="🇸🇴" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1FF 1F1E6" emoji="🇿🇦" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F0 1F1F7" emoji="🇰🇷" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F1F8 1F1F8" emoji="🇸🇸" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1EA 1F1F8" emoji="🇪🇸" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F1F1 1F1F0" emoji="🇱🇰" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E7 1F1F1" emoji="🇧🇱" minversion="9.0" modifiableversion="false"/>
+		<Emoji unicode="1F1F8 1F1ED" emoji="🇸🇭" minversion="9.0" modifiableversion="false"/>
+		<Emoji unicode="1F1F0 1F1F3" emoji="🇰🇳" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F1 1F1E8" emoji="🇱🇨" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F5 1F1F2" emoji="🇵🇲" minversion="9.0" modifiableversion="false"/>
+		<Emoji unicode="1F1FB 1F1E8" emoji="🇻🇨" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F8 1F1E9" emoji="🇸🇩" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F8 1F1F7" emoji="🇸🇷" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F8 1F1FF" emoji="🇸🇿" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F8 1F1EA" emoji="🇸🇪" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E8 1F1ED" emoji="🇨🇭" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F8 1F1FE" emoji="🇸🇾" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F9 1F1FC" emoji="🇹🇼" minversion="9.0" modifiableversion="false"/>
+		<Emoji unicode="1F1F9 1F1EF" emoji="🇹🇯" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F9 1F1FF" emoji="🇹🇿" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F9 1F1ED" emoji="🇹🇭" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F9 1F1F1" emoji="🇹🇱" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F9 1F1EC" emoji="🇹🇬" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F9 1F1F0" emoji="🇹🇰" minversion="9.0" modifiableversion="false"/>
+		<Emoji unicode="1F1F9 1F1F4" emoji="🇹🇴" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F9 1F1F9" emoji="🇹🇹" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F9 1F1F3" emoji="🇹🇳" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F9 1F1F7" emoji="🇹🇷" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F9 1F1F2" emoji="🇹🇲" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F9 1F1E8" emoji="🇹🇨" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1F9 1F1FB" emoji="🇹🇻" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1FB 1F1EE" emoji="🇻🇮" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1FA 1F1EC" emoji="🇺🇬" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1FA 1F1E6" emoji="🇺🇦" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1E6 1F1EA" emoji="🇦🇪" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1EC 1F1E7" emoji="🇬🇧" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F1FA 1F1F8" emoji="🇺🇸" minversion="8.2" modifiableversion="false"/>
+		<Emoji unicode="1F1FA 1F1FE" emoji="🇺🇾" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1FA 1F1FF" emoji="🇺🇿" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1FB 1F1FA" emoji="🇻🇺" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1FB 1F1E6" emoji="🇻🇦" minversion="9.0" modifiableversion="false"/>
+		<Emoji unicode="1F1FB 1F1EA" emoji="🇻🇪" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1FB 1F1F3" emoji="🇻🇳" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1FC 1F1EB" emoji="🇼🇫" minversion="9.0" modifiableversion="false"/>
+		<Emoji unicode="1F1EA 1F1ED" emoji="🇪🇭" minversion="9.0" modifiableversion="false"/>
+		<Emoji unicode="1F1FE 1F1EA" emoji="🇾🇪" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1FF 1F1F2" emoji="🇿🇲" minversion="8.3" modifiableversion="false"/>
+		<Emoji unicode="1F1FF 1F1FC" emoji="🇿🇼" minversion="8.3" modifiableversion="false"/>
+	</EmojiGroup>
+</EmojiList>

@@ -1,19 +1,29 @@
 {
   "name": "EmojiKeyboard",
   "version": "0.1.0",
-  "summary": "A short description of EmojiKeyboard.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/EmojiKeyboard",
+  "summary": "A keyboard that only allows Emojis to be entered, and does not allow toggling to other keyboards.",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "homepage": "https://github.com/yeti/EmojiKeyboard",
   "license": "MIT",
   "authors": {
     "Lee McDole": "lee@yeti.co"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/EmojiKeyboard.git",
+    "git": "https://github.com/yeti/EmojiKeyboard.git",
     "tag": "0.1.0"
   },
+  "social_media_url": "https://twitter.com/yetillc",
   "platforms": {
-    "ios": "8.0"
+    "ios": "8.2"
   },
-  "source_files": "EmojiKeyboard/Classes/**/*"
+  "source_files": [
+    "EmojiKeyboard/Classes/**/*.swift"
+  ],
+  "resource_bundles": {
+    "EmojiKeyboard": [
+      "EmojiKeyboard/Assets/**/*.xml",
+      "EmojiKeyboard/Assets/**/*.png",
+      "EmojiKeyboard/Assets/**/*.xib"
+    ]
+  }
 }

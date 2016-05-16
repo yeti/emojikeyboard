@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9531" systemVersion="15B42" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="EKBInputView" customModule="GottaGo" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="626" height="620"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" showsHorizontalScrollIndicator="NO" dataMode="none" translatesAutoresizingMaskIntoConstraints="NO" id="URq-IZ-IhP" customClass="EKBCollectionView" customModule="GottaGo" customModuleProvider="target">
+                    <rect key="frame" x="0.0" y="28" width="626" height="550"/>
+                    <color key="backgroundColor" cyan="0.0" magenta="0.0" yellow="0.0" black="0.080091233220000002" alpha="1" colorSpace="custom" customColorSpace="genericCMYKColorSpace"/>
+                    <collectionViewFlowLayout key="collectionViewLayout" scrollDirection="horizontal" minimumLineSpacing="0.0" minimumInteritemSpacing="0.0" id="kon-sP-yqW">
+                        <size key="itemSize" width="0.0" height="0.0"/>
+                        <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                        <size key="footerReferenceSize" width="10" height="0.0"/>
+                        <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                    </collectionViewFlowLayout>
+                </collectionView>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Ky9-HP-SeO" userLabel="Group Buttons Container">
+                    <rect key="frame" x="171" y="578" width="284" height="42"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QMh-He-FUX" userLabel="Button1">
+                            <rect key="frame" x="0.0" y="5" width="32" height="32"/>
+                            <color key="backgroundColor" cyan="0.0" magenta="0.0" yellow="0.0" black="0.080091233220000002" alpha="1" colorSpace="custom" customColorSpace="genericCMYKColorSpace"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="32" id="V1y-ZY-Kfq"/>
+                                <constraint firstAttribute="width" constant="32" id="bQn-Fx-gho"/>
+                            </constraints>
+                            <inset key="contentEdgeInsets" minX="8" minY="8" maxX="8" maxY="8"/>
+                            <state key="normal" image="People.png"/>
+                            <connections>
+                                <action selector="button1Touched:" destination="iN0-l3-epB" eventType="touchUpInside" id="7et-fw-ItC"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Z9u-F5-26G" userLabel="Button2">
+                            <rect key="frame" x="36" y="5" width="32" height="32"/>
+                            <color key="backgroundColor" cyan="0.0" magenta="0.0" yellow="0.0" black="0.080091233220000002" alpha="1" colorSpace="custom" customColorSpace="genericCMYKColorSpace"/>
+                            <inset key="contentEdgeInsets" minX="8" minY="8" maxX="8" maxY="8"/>
+                            <state key="normal" image="Animals.png"/>
+                            <connections>
+                                <action selector="button2Touched:" destination="iN0-l3-epB" eventType="touchUpInside" id="WYb-wN-bPU"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6A7-39-WsJ" userLabel="Button3">
+                            <rect key="frame" x="72" y="5" width="32" height="32"/>
+                            <color key="backgroundColor" cyan="0.0" magenta="0.0" yellow="0.0" black="0.080091233220000002" alpha="1" colorSpace="custom" customColorSpace="genericCMYKColorSpace"/>
+                            <inset key="contentEdgeInsets" minX="8" minY="8" maxX="8" maxY="8"/>
+                            <state key="normal" image="Food.png"/>
+                            <connections>
+                                <action selector="button3Touched:" destination="iN0-l3-epB" eventType="touchUpInside" id="9ML-8F-iIa"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YG2-mg-znE" userLabel="Button4">
+                            <rect key="frame" x="108" y="5" width="32" height="32"/>
+                            <color key="backgroundColor" cyan="0.0" magenta="0.0" yellow="0.0" black="0.080091233220000002" alpha="1" colorSpace="custom" customColorSpace="genericCMYKColorSpace"/>
+                            <inset key="contentEdgeInsets" minX="8" minY="8" maxX="8" maxY="8"/>
+                            <state key="normal" image="Activity.png"/>
+                            <connections>
+                                <action selector="button4Touched:" destination="iN0-l3-epB" eventType="touchUpInside" id="4p3-Gv-dF9"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8Rt-3l-1VL" userLabel="Button5">
+                            <rect key="frame" x="144" y="5" width="32" height="32"/>
+                            <color key="backgroundColor" cyan="0.0" magenta="0.0" yellow="0.0" black="0.080091233220000002" alpha="1" colorSpace="custom" customColorSpace="genericCMYKColorSpace"/>
+                            <inset key="contentEdgeInsets" minX="8" minY="8" maxX="8" maxY="8"/>
+                            <state key="normal" image="Places.png"/>
+                            <connections>
+                                <action selector="button5Touched:" destination="iN0-l3-epB" eventType="touchUpInside" id="0VC-pq-wPe"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2Zn-wT-pBa" userLabel="Button6">
+                            <rect key="frame" x="180" y="5" width="32" height="32"/>
+                            <color key="backgroundColor" cyan="0.0" magenta="0.0" yellow="0.0" black="0.080091233220000002" alpha="1" colorSpace="custom" customColorSpace="genericCMYKColorSpace"/>
+                            <inset key="contentEdgeInsets" minX="8" minY="8" maxX="8" maxY="8"/>
+                            <state key="normal" image="Objects.png"/>
+                            <connections>
+                                <action selector="button6Touched:" destination="iN0-l3-epB" eventType="touchUpInside" id="oi1-Fx-ikx"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vFu-hm-glL" userLabel="Button7">
+                            <rect key="frame" x="216" y="5" width="32" height="32"/>
+                            <color key="backgroundColor" cyan="0.0" magenta="0.0" yellow="0.0" black="0.080091233220000002" alpha="1" colorSpace="custom" customColorSpace="genericCMYKColorSpace"/>
+                            <inset key="contentEdgeInsets" minX="8" minY="8" maxX="8" maxY="8"/>
+                            <state key="normal" image="Symbols.png"/>
+                            <connections>
+                                <action selector="button7Touched:" destination="iN0-l3-epB" eventType="touchUpInside" id="5yW-Z0-fWI"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="uh1-eg-QPx" userLabel="Button8">
+                            <rect key="frame" x="252" y="5" width="32" height="32"/>
+                            <color key="backgroundColor" cyan="0.0" magenta="0.0" yellow="0.0" black="0.080091233220000002" alpha="1" colorSpace="custom" customColorSpace="genericCMYKColorSpace"/>
+                            <inset key="contentEdgeInsets" minX="8" minY="8" maxX="8" maxY="8"/>
+                            <state key="normal" image="Flags.png"/>
+                            <connections>
+                                <action selector="button8Touched:" destination="iN0-l3-epB" eventType="touchUpInside" id="dem-TQ-QN0"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" cyan="0.0" magenta="0.0" yellow="0.0" black="0.080091233220000002" alpha="1" colorSpace="custom" customColorSpace="genericCMYKColorSpace"/>
+                    <constraints>
+                        <constraint firstItem="vFu-hm-glL" firstAttribute="width" secondItem="2Zn-wT-pBa" secondAttribute="width" id="0Wl-h2-Hf4"/>
+                        <constraint firstItem="8Rt-3l-1VL" firstAttribute="top" secondItem="YG2-mg-znE" secondAttribute="top" id="3ZL-7C-fcB"/>
+                        <constraint firstItem="YG2-mg-znE" firstAttribute="width" secondItem="6A7-39-WsJ" secondAttribute="width" id="4Ff-WG-oXp"/>
+                        <constraint firstItem="8Rt-3l-1VL" firstAttribute="bottom" secondItem="YG2-mg-znE" secondAttribute="bottom" id="7Sf-nM-qlw"/>
+                        <constraint firstItem="2Zn-wT-pBa" firstAttribute="top" secondItem="8Rt-3l-1VL" secondAttribute="top" id="8sR-Fg-Sea"/>
+                        <constraint firstItem="6A7-39-WsJ" firstAttribute="top" secondItem="Z9u-F5-26G" secondAttribute="top" id="CNj-Ec-zbn"/>
+                        <constraint firstItem="uh1-eg-QPx" firstAttribute="bottom" secondItem="vFu-hm-glL" secondAttribute="bottom" id="DDm-kb-1Y4"/>
+                        <constraint firstItem="2Zn-wT-pBa" firstAttribute="bottom" secondItem="8Rt-3l-1VL" secondAttribute="bottom" id="E6Z-Y5-QGl"/>
+                        <constraint firstItem="2Zn-wT-pBa" firstAttribute="leading" secondItem="8Rt-3l-1VL" secondAttribute="trailing" constant="4" id="FJZ-YQ-Zwz"/>
+                        <constraint firstItem="YG2-mg-znE" firstAttribute="bottom" secondItem="6A7-39-WsJ" secondAttribute="bottom" id="HUh-Ey-0LY"/>
+                        <constraint firstItem="vFu-hm-glL" firstAttribute="leading" secondItem="2Zn-wT-pBa" secondAttribute="trailing" constant="4" id="JLj-YG-h2c"/>
+                        <constraint firstItem="8Rt-3l-1VL" firstAttribute="leading" secondItem="YG2-mg-znE" secondAttribute="trailing" constant="4" id="Kpl-2T-uYZ"/>
+                        <constraint firstItem="Z9u-F5-26G" firstAttribute="top" secondItem="QMh-He-FUX" secondAttribute="top" id="N0C-5K-eMM"/>
+                        <constraint firstItem="6A7-39-WsJ" firstAttribute="bottom" secondItem="Z9u-F5-26G" secondAttribute="bottom" id="N6f-ao-bpJ"/>
+                        <constraint firstItem="8Rt-3l-1VL" firstAttribute="width" secondItem="YG2-mg-znE" secondAttribute="width" id="N7d-eW-CZI"/>
+                        <constraint firstItem="2Zn-wT-pBa" firstAttribute="width" secondItem="8Rt-3l-1VL" secondAttribute="width" id="OFF-lA-jQe"/>
+                        <constraint firstItem="QMh-He-FUX" firstAttribute="leading" secondItem="Ky9-HP-SeO" secondAttribute="leading" id="T3A-KI-pMy"/>
+                        <constraint firstAttribute="trailing" secondItem="uh1-eg-QPx" secondAttribute="trailing" id="VIC-Yk-kAV"/>
+                        <constraint firstItem="6A7-39-WsJ" firstAttribute="width" secondItem="Z9u-F5-26G" secondAttribute="width" id="Xtv-O1-Z5o"/>
+                        <constraint firstItem="Z9u-F5-26G" firstAttribute="leading" secondItem="QMh-He-FUX" secondAttribute="trailing" constant="4" id="Zkq-vJ-3VX"/>
+                        <constraint firstItem="QMh-He-FUX" firstAttribute="centerY" secondItem="Ky9-HP-SeO" secondAttribute="centerY" id="bOA-Gk-WGV"/>
+                        <constraint firstItem="Z9u-F5-26G" firstAttribute="bottom" secondItem="QMh-He-FUX" secondAttribute="bottom" id="cvW-hg-qM4"/>
+                        <constraint firstItem="Z9u-F5-26G" firstAttribute="width" secondItem="QMh-He-FUX" secondAttribute="width" id="d7W-TI-rdd"/>
+                        <constraint firstItem="vFu-hm-glL" firstAttribute="bottom" secondItem="2Zn-wT-pBa" secondAttribute="bottom" id="fi6-kl-GRD"/>
+                        <constraint firstItem="YG2-mg-znE" firstAttribute="top" secondItem="6A7-39-WsJ" secondAttribute="top" id="fqj-sc-QWS"/>
+                        <constraint firstItem="uh1-eg-QPx" firstAttribute="width" secondItem="vFu-hm-glL" secondAttribute="width" id="gRZ-cI-qij"/>
+                        <constraint firstItem="uh1-eg-QPx" firstAttribute="leading" secondItem="vFu-hm-glL" secondAttribute="trailing" constant="4" id="nKq-13-4A9"/>
+                        <constraint firstItem="vFu-hm-glL" firstAttribute="top" secondItem="2Zn-wT-pBa" secondAttribute="top" id="p3k-Ki-CpQ"/>
+                        <constraint firstItem="YG2-mg-znE" firstAttribute="leading" secondItem="6A7-39-WsJ" secondAttribute="trailing" constant="4" id="uKz-SA-Zlg"/>
+                        <constraint firstItem="uh1-eg-QPx" firstAttribute="top" secondItem="vFu-hm-glL" secondAttribute="top" id="uk6-y4-yDv"/>
+                        <constraint firstItem="6A7-39-WsJ" firstAttribute="leading" secondItem="Z9u-F5-26G" secondAttribute="trailing" constant="4" id="z03-IN-Gr3"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" cyan="0.0" magenta="0.0" yellow="0.0" black="0.080091233220000002" alpha="1" colorSpace="custom" customColorSpace="genericCMYKColorSpace"/>
+            <constraints>
+                <constraint firstItem="URq-IZ-IhP" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="28" id="0Os-aq-i9K"/>
+                <constraint firstItem="URq-IZ-IhP" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="RjL-wy-Bc9"/>
+                <constraint firstItem="Ky9-HP-SeO" firstAttribute="top" secondItem="URq-IZ-IhP" secondAttribute="bottom" id="Wgs-ai-R33"/>
+                <constraint firstAttribute="bottom" secondItem="Ky9-HP-SeO" secondAttribute="bottom" id="bS7-NL-77o"/>
+                <constraint firstAttribute="trailing" secondItem="URq-IZ-IhP" secondAttribute="trailing" id="cSE-HK-GJb"/>
+                <constraint firstItem="Ky9-HP-SeO" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="dZQ-bk-HOY"/>
+                <constraint firstAttribute="bottom" secondItem="URq-IZ-IhP" secondAttribute="bottom" constant="42" id="mbc-Ra-OmJ"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="collectionView" destination="URq-IZ-IhP" id="Ebp-G7-2XK"/>
+                <outlet property="groupButton1" destination="QMh-He-FUX" id="s2k-0N-jOU"/>
+                <outlet property="groupButton2" destination="Z9u-F5-26G" id="rgi-7i-cwW"/>
+                <outlet property="groupButton3" destination="6A7-39-WsJ" id="71r-OI-0kn"/>
+                <outlet property="groupButton4" destination="YG2-mg-znE" id="U6I-43-eeO"/>
+                <outlet property="groupButton5" destination="8Rt-3l-1VL" id="Iir-Ne-Fba"/>
+                <outlet property="groupButton6" destination="2Zn-wT-pBa" id="KPR-FK-Wqd"/>
+                <outlet property="groupButton7" destination="vFu-hm-glL" id="js7-cX-skD"/>
+                <outlet property="groupButton8" destination="uh1-eg-QPx" id="HnR-e0-0un"/>
+                <outlet property="groupButtonsContainer" destination="Ky9-HP-SeO" id="Beu-w0-ofI"/>
+            </connections>
+            <point key="canvasLocation" x="714" y="403"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="Activity.png" width="32" height="32"/>
+        <image name="Animals.png" width="32" height="32"/>
+        <image name="Flags.png" width="32" height="32"/>
+        <image name="Food.png" width="32" height="32"/>
+        <image name="Objects.png" width="32" height="32"/>
+        <image name="People.png" width="32" height="32"/>
+        <image name="Places.png" width="32" height="32"/>
+        <image name="Symbols.png" width="32" height="32"/>
+    </resources>
+</document>

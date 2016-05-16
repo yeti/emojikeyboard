@@ -7,18 +7,33 @@
 //
 
 import UIKit
+import EmojiKeyboard
 
-class ViewController: UIViewController {
+class ViewController: UIViewController, UITextFieldDelegate, EKBDelegate {
 
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
-    }
+  @IBOutlet weak var emojiTextField: UITextField!
 
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
+  var emojiKeyboard: EKB!
+
+  override func viewDidLoad() {
+    super.viewDidLoad()
+
+    // setup emoji text input
+    emojiKeyboard = EKB()
+    emojiKeyboard.ekbDelegate = self
+    emojiTextField.delegate = self
+    emojiTextField.inputView = emojiKeyboard.ekbInputView
+  }
+
+  override func didReceiveMemoryWarning() {
+    super.didReceiveMemoryWarning()
+    // Dispose of any resources that can be recreated.
+  }
+
+  // MARK: EKBDelegate delegate functions
+  func ekbButtonPressed(string: String) {
+
+  }
 
 }
 

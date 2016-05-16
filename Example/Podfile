@@ -6,6 +6,5 @@ target 'EmojiKeyboard_Example' do
   target 'EmojiKeyboard_Tests' do
     inherit! :search_paths
 
-    
   end
 end

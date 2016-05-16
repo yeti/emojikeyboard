@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9531" systemVersion="15B42" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="EKBEmojiViewCell" customModule="GottaGo" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="36" height="35"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="😀" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="HYI-jq-9uR">
+                    <rect key="frame" x="0.0" y="0.0" width="36" height="35"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="32"/>
+                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" cyan="0.0" magenta="0.0" yellow="0.0" black="0.080091233220000002" alpha="1" colorSpace="custom" customColorSpace="genericCMYKColorSpace"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="HYI-jq-9uR" secondAttribute="bottom" id="AO9-5C-zDI"/>
+                <constraint firstItem="HYI-jq-9uR" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="BsY-Y7-ktV"/>
+                <constraint firstItem="HYI-jq-9uR" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="Nyh-29-9F0"/>
+                <constraint firstAttribute="trailing" secondItem="HYI-jq-9uR" secondAttribute="trailing" id="jBa-L3-b78"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="emojiLabel" destination="HYI-jq-9uR" id="LCE-vx-3Sj"/>
+            </connections>
+            <point key="canvasLocation" x="5" y="57.5"/>
+        </view>
+    </objects>
+</document>

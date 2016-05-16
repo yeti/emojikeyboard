@@ -28,13 +28,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   s.source           = { :git => "https://github.com/yeti/EmojiKeyboard.git", :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/yetillc'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '8.2'
 
-  s.source_files = 'EmojiKeyboard/Classes/**/*'
+  s.source_files = ['EmojiKeyboard/Classes/**/*.swift']
   
-  # s.resource_bundles = {
-  #   'EmojiKeyboard' => ['EmojiKeyboard/Assets/*.png']
-  # }
+  s.resource_bundles = {
+    'EmojiKeyboard' => ['EmojiKeyboard/Assets/**/*.xml', 'EmojiKeyboard/Assets/**/*.png', 'EmojiKeyboard/Assets/**/*.xib']
+  }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
