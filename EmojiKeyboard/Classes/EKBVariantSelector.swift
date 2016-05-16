@@ -32,7 +32,7 @@ class EKBVariantSelector: UIView {
   let screenSize: CGRect = UIScreen.mainScreen().applicationFrame
   
   class func instanceFromNib() -> EKBVariantSelector {
-    let nib = UINib(nibName: "EKBVariantSelector", bundle: NSBundle.mainBundle())
+    let nib = UINib(nibName: "EKBVariantSelector", bundle: EKBUtils.resourceBundle())
     return nib.instantiateWithOwner(nil, options: nil).first as! EKBVariantSelector
   }
   

@@ -19,7 +19,7 @@
 		464A6985906791730FE91C72E12F85D9 /* Flags.png in Resources */ = {isa = PBXBuildFile; fileRef = E521D8ACAB3886C13B6FA7E767C74F52 /* Flags.png */; };
 		4834036E5EF70200EBBF1008633205EE /* EKBCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA5BB078F4C2C363DACBE5486B3BCC7C /* EKBCollectionView.swift */; };
 		48B4196564B59BB17C8824D7264CEDBF /* EKBEmojiGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA0702B0DA0960E7F3965A74B217AF81 /* EKBEmojiGroup.swift */; };
-		4D5531BFE33009421A1AEFD3570A4179 /* EmojiKeyboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ED716DBF6AB8D43DAF08F0AF42BCB26 /* EmojiKeyboard.swift */; };
+		4D5531BFE33009421A1AEFD3570A4179 /* EKB.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ED716DBF6AB8D43DAF08F0AF42BCB26 /* EKB.swift */; };
 		5056D1EEB0F5A63729951499C859487F /* Animals.png in Resources */ = {isa = PBXBuildFile; fileRef = A5E5FA7A756E34D3D8B769A15BC800B3 /* Animals.png */; };
 		63213572EFD42F475DBB9160D1BA48C6 /* Food.png in Resources */ = {isa = PBXBuildFile; fileRef = 585E11D7B765A0DC22B4681F507312BC /* Food.png */; };
 		679AF30A66AC830CF3AF01425940B529 /* People.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E6DBDF96C14CD1D84243DE82731B289 /* People.png */; };
@@ -27,6 +27,7 @@
 		8A68FF0F69AEFA3AFC303A4BF75CB904 /* EKBVariantSelector.xib in Resources */ = {isa = PBXBuildFile; fileRef = B2DA49B5D2629A344DB92B037220CF93 /* EKBVariantSelector.xib */; };
 		926372641C9E1970F56E54EEA63FC435 /* Pods-EmojiKeyboard_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A60317475B48B9B644EFF5838917695A /* Pods-EmojiKeyboard_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9A474B9F840FEB78B5AD5589CF934C9F /* EKBInputView.xib in Resources */ = {isa = PBXBuildFile; fileRef = A6E8F7FE735A81125BC24E8B59A66267 /* EKBInputView.xib */; };
+		9B1D05FC1CEA36E900DE94D8 /* EKBUtils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B1D05FB1CEA36E900DE94D8 /* EKBUtils.swift */; };
 		9B6B728E65522DC1C34CF817DBA5B14E /* Pods-EmojiKeyboard_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C2F5F4E777F97CA474E3E9788160CAD3 /* Pods-EmojiKeyboard_Tests-dummy.m */; };
 		A5D4380F08A7EAAAC22081114951E059 /* EmojiKeyboard-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A70653BBE75739E0F56A9A2DCA42A0F5 /* EmojiKeyboard-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A81F6202302A6AE8AD72B5C62F9E874F /* EmojiKeyboard-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 59180F2A545AAEBF81ED6A9F81E13C0E /* EmojiKeyboard-dummy.m */; };
@@ -79,9 +80,10 @@
 		749E9C0D61AC02D9FE862CAC19F657D4 /* Objects.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = Objects.png; sourceTree = "<group>"; };
 		7F2881684F497491EAB97354565C2EBF /* Pods-EmojiKeyboard_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-EmojiKeyboard_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		831223DDD0000A123015EAEE61C277B7 /* Places.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = Places.png; sourceTree = "<group>"; };
-		8ED716DBF6AB8D43DAF08F0AF42BCB26 /* EmojiKeyboard.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = EmojiKeyboard.swift; sourceTree = "<group>"; };
+		8ED716DBF6AB8D43DAF08F0AF42BCB26 /* EKB.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = EKB.swift; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		95E89FE51502F891A7FAC008D07FB9C2 /* EmojiKeyboard.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = EmojiKeyboard.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9B1D05FB1CEA36E900DE94D8 /* EKBUtils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EKBUtils.swift; sourceTree = "<group>"; };
 		9E6DBDF96C14CD1D84243DE82731B289 /* People.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = People.png; sourceTree = "<group>"; };
 		A41BBB4B7406BE6C1C34A7DF83D580C7 /* Pods-EmojiKeyboard_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-EmojiKeyboard_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		A54CB4DBE34DC98604FBA48F7FF384FC /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -230,7 +232,8 @@
 				6AD73F470BD25301BC1173E365F825DC /* EKBEmojiViewCell.swift */,
 				70B45E19EB816E84B55CC5D146C09D5A /* EKBInputView.swift */,
 				A8D835682E7F067C63DB745E8137B2A8 /* EKBVariantSelector.swift */,
-				8ED716DBF6AB8D43DAF08F0AF42BCB26 /* EmojiKeyboard.swift */,
+				8ED716DBF6AB8D43DAF08F0AF42BCB26 /* EKB.swift */,
+				9B1D05FB1CEA36E900DE94D8 /* EKBUtils.swift */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -507,10 +510,11 @@
 				25751405D6764E4ABAD0D1148C379541 /* EKBEmoji.swift in Sources */,
 				48B4196564B59BB17C8824D7264CEDBF /* EKBEmojiGroup.swift in Sources */,
 				380EB4D2F037DDE7C3C1A77DC3535442 /* EKBEmojiViewCell.swift in Sources */,
+				9B1D05FC1CEA36E900DE94D8 /* EKBUtils.swift in Sources */,
 				23C685BA68C4B9947807670500913998 /* EKBInputView.swift in Sources */,
 				3EB5C43F23A12DEF95E9CBB6C6BAAC0B /* EKBVariantSelector.swift in Sources */,
 				A81F6202302A6AE8AD72B5C62F9E874F /* EmojiKeyboard-dummy.m in Sources */,
-				4D5531BFE33009421A1AEFD3570A4179 /* EmojiKeyboard.swift in Sources */,
+				4D5531BFE33009421A1AEFD3570A4179 /* EKB.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

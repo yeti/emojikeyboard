@@ -78,7 +78,7 @@ public class EKBInputView: UIView, UICollectionViewDataSource, UICollectionViewD
     
     autoresizingMask = .None;
     
-    let cellNib = UINib(nibName: "EKBEmojiViewCell", bundle: NSBundle.mainBundle())
+    let cellNib = UINib(nibName: "EKBEmojiViewCell", bundle: EKBUtils.resourceBundle())
     collectionView.registerNib(cellNib, forCellWithReuseIdentifier: "EKBEmojiViewCell")
     
     variantSelector = EKBVariantSelector.instanceFromNib()

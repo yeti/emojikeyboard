@@ -9,14 +9,14 @@
 import Foundation
 
 
-protocol EKBDelegate {
+public protocol EKBDelegate {
   func ekbButtonPressed(string: String)
 }
 
-class EmojiKeyboard: NSObject, NSXMLParserDelegate, EKBInputViewDelegate {
+public class EKB: NSObject, NSXMLParserDelegate, EKBInputViewDelegate {
   
   // Views
-  var ekbInputView: EKBInputView?
+  public var ekbInputView: EKBInputView?
   
   // Emojis
   var emojiGroups: [EKBEmojiGroup]
@@ -24,14 +24,14 @@ class EmojiKeyboard: NSObject, NSXMLParserDelegate, EKBInputViewDelegate {
   var modifiers = [String]()
   
   private let screenSize:CGRect = UIScreen.mainScreen().bounds
-  var ekbDelegate: EKBDelegate?
+  public var ekbDelegate: EKBDelegate?
   
   
   ///////////////////////////
   // Initialization functions
   ///////////////////////////
   
-  override init() {
+  public override init() {
     emojiGroups = [EKBEmojiGroup]()
     currentEmojiGroup = nil
     
@@ -40,7 +40,7 @@ class EmojiKeyboard: NSObject, NSXMLParserDelegate, EKBInputViewDelegate {
     processEmojiFile()
     
     // Setup Emoji Keyboard
-    ekbInputView = UINib(nibName: "EKBInputView", bundle: nil).instantiateWithOwner(nil, options: nil)[0] as? EKBInputView
+    ekbInputView = UINib(nibName: "EKBInputView", bundle: EKBUtils.resourceBundle()).instantiateWithOwner(nil, options: nil)[0] as? EKBInputView
     ekbInputView!.ekbInputViewDelegate = self
     
     // Set our height
@@ -51,9 +51,11 @@ class EmojiKeyboard: NSObject, NSXMLParserDelegate, EKBInputViewDelegate {
   private func processEmojiFile() {
     let filename = "EmojiList"
     var parser: NSXMLParser?
-    let path = NSBundle.mainBundle().pathForResource(filename, ofType: "xml")
-    if let path = path {
-      parser = NSXMLParser(contentsOfURL: NSURL(fileURLWithPath: path))
+    if let bundle = EKBUtils.resourceBundle() {
+      let path = bundle.pathForResource(filename, ofType: "xml")
+      if let path = path {
+        parser = NSXMLParser(contentsOfURL: NSURL(fileURLWithPath: path))
+      }
     } else {
       print("Failed to find emoji list file")
     }
@@ -97,7 +99,7 @@ class EmojiKeyboard: NSObject, NSXMLParserDelegate, EKBInputViewDelegate {
   // NSXMLParserDelegate protocol functions
   /////////////////////////////////////////
   
-  @objc func parser(parser: NSXMLParser, didStartElement elementName: String, namespaceURI: String?,
+  @objc public func parser(parser: NSXMLParser, didStartElement elementName: String, namespaceURI: String?,
     qualifiedName qName: String?, attributes attributeDict: [String : String])
   {
     if elementName == "EmojiModifier" {
@@ -112,7 +114,7 @@ class EmojiKeyboard: NSObject, NSXMLParserDelegate, EKBInputViewDelegate {
     }
   }
   
-  @objc func parser(parser: NSXMLParser, didEndElement elementName: String, namespaceURI: String?,
+  @objc public func parser(parser: NSXMLParser, didEndElement elementName: String, namespaceURI: String?,
     qualifiedName qName: String?)
   {
     if elementName == "EmojiGroup" {
@@ -229,18 +231,18 @@ class EmojiKeyboard: NSObject, NSXMLParserDelegate, EKBInputViewDelegate {
   //////////////////////////////////////////
   
   // Action handler for whenever a button is pressed.  Probably want to send a character to the UIResponder
-  func buttonPressed(groupIndex: Int, index: Int) {
+  public func buttonPressed(groupIndex: Int, index: Int) {
     let emoji: String = emojiGroups[groupIndex].emojis[index].getModifiedString()
     ekbDelegate?.ekbButtonPressed(emoji)
   }
   
   // Return the number of groups in this keyboard
-  func getGroupCount() -> Int {
+  public func getGroupCount() -> Int {
     return emojiGroups.count
   }
   
   // Return the name of the specified group
-  func getGroupName(groupIndex: Int) -> String {
+  public func getGroupName(groupIndex: Int) -> String {
     if groupIndex >= 0  &&  groupIndex < emojiGroups.count {
       return emojiGroups[groupIndex].name
     }
@@ -248,7 +250,7 @@ class EmojiKeyboard: NSObject, NSXMLParserDelegate, EKBInputViewDelegate {
   }
   
   // Return the number of items within this group
-  func getItemCount(groupIndex: Int) -> Int {
+  public func getItemCount(groupIndex: Int) -> Int {
     if groupIndex >= 0  &&  groupIndex < emojiGroups.count {
       return emojiGroups[groupIndex].emojis.count
     }
@@ -256,7 +258,7 @@ class EmojiKeyboard: NSObject, NSXMLParserDelegate, EKBInputViewDelegate {
   }
   
   // Get the emoji for a specified group and index
-  func getEmojiAt(groupIndex: Int, index: Int) -> EKBEmoji? {
+  public func getEmojiAt(groupIndex: Int, index: Int) -> EKBEmoji? {
     if groupIndex >= 0  &&  groupIndex < emojiGroups.count {
       if index >= 0  &&  index < emojiGroups[groupIndex].emojis.count {
         return emojiGroups[groupIndex].emojis[index]
